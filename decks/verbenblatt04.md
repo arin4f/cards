@@ -1,121 +1,130 @@
-Q: Wie lauten die Formen von **beginnen**?
+Q: Wie lauten die Formen von **beissen**?
 
 A: | Form | Deutsch |
 |------|--------|
-| Infinitiv | **beginnen** |
-| Präsens (er/sie/es) | **beginnt** |
-| Präteritum (er/sie/es) | **begann** |
-| Perfekt (er/sie/es) | **hat begonnen** |
+| Infinitiv | **beissen** |
+| Präsens (er/sie/es) | **beisst** |
+| Präteritum (er/sie/es) | **biss** |
+| Perfekt (er/sie/es) | **hat gebissen** |
 
-Q: Wie lauten die Formen von **bleiben**?
-
-A: | Form | Deutsch |
-|------|--------|
-| Infinitiv | **bleiben** |
-| Präsens (er/sie/es) | **bleibt** |
-| Präteritum (er/sie/es) | **blieb** |
-| Perfekt (er/sie/es) | **ist geblieben** |
-
-Q: Wie lauten die Formen von **empfehlen**?
+Q: Wie lauten die Formen von **braten**?
 
 A: | Form | Deutsch |
 |------|--------|
-| Infinitiv | **empfehlen** |
-| Präsens (er/sie/es) | **empfiehlt** |
-| Präteritum (er/sie/es) | **empfahl** |
-| Perfekt (er/sie/es) | **hat empfohlen** |
+| Infinitiv | **braten** |
+| Präsens (er/sie/es) | **brät** |
+| Präteritum (er/sie/es) | **briet** |
+| Perfekt (er/sie/es) | **hat gebraten** |
 
-Q: Wie lauten die Formen von **fangen**?
-
-A: | Form | Deutsch |
-|------|--------|
-| Infinitiv | **fangen** |
-| Präsens (er/sie/es) | **fängt** |
-| Präteritum (er/sie/es) | **fing** |
-| Perfekt (er/sie/es) | **hat gefangen** |
-
-Q: Wie lauten die Formen von **gleichen**?
+Q: Wie lauten die Formen von **empfinden**?
 
 A: | Form | Deutsch |
 |------|--------|
-| Infinitiv | **gleichen** |
-| Präsens (er/sie/es) | **gleicht** |
-| Präteritum (er/sie/es) | **glich** |
-| Perfekt (er/sie/es) | **hat geglichen** |
+| Infinitiv | **empfinden** |
+| Präsens (er/sie/es) | **empfindet** |
+| Präteritum (er/sie/es) | **empfand** |
+| Perfekt (er/sie/es) | **hat empfunden** |
 
-Q: Wie lauten die Formen von **heissen**?
-
-A: | Form | Deutsch |
-|------|--------|
-| Infinitiv | **heissen** |
-| Präsens (er/sie/es) | **heisst** |
-| Präteritum (er/sie/es) | **hiess** |
-| Perfekt (er/sie/es) | **hat geheissen** |
-
-Q: Wie lauten die Formen von **kriechen**?
+Q: Wie lauten die Formen von **fechten**?
 
 A: | Form | Deutsch |
 |------|--------|
-| Infinitiv | **kriechen** |
-| Präsens (er/sie/es) | **kriecht** |
-| Präteritum (er/sie/es) | **kroch** |
-| Perfekt (er/sie/es) | **ist gekrochen** |
+| Infinitiv | **fechten** |
+| Präsens (er/sie/es) | **ficht** |
+| Präteritum (er/sie/es) | **focht** |
+| Perfekt (er/sie/es) | **hat gefochten** |
 
-Q: Wie lauten die Formen von **liegen**?
-
-A: | Form | Deutsch |
-|------|--------|
-| Infinitiv | **liegen** |
-| Präsens (er/sie/es) | **liegt** |
-| Präteritum (er/sie/es) | **lag** |
-| Perfekt (er/sie/es) | **hat gelegen** |
-
-Q: Wie lauten die Formen von **nehmen**?
+Q: Wie lauten die Formen von **geben**?
 
 A: | Form | Deutsch |
 |------|--------|
-| Infinitiv | **nehmen** |
-| Präsens (er/sie/es) | **nimmt** |
-| Präteritum (er/sie/es) | **nahm** |
-| Perfekt (er/sie/es) | **hat genommen** |
+| Infinitiv | **geben** |
+| Präsens (er/sie/es) | **gibt** |
+| Präteritum (er/sie/es) | **gab** |
+| Perfekt (er/sie/es) | **hat gegeben** |
 
-Q: Wie lauten die Formen von **reiten**?
-
-A: | Form | Deutsch |
-|------|--------|
-| Infinitiv | **reiten** |
-| Präsens (er/sie/es) | **reitet** |
-| Präteritum (er/sie/es) | **ritt** |
-| Perfekt (er/sie/es) | **ist geritten** |
-
-Q: Wie lauten die Formen von **saufen**?
+Q: Wie lauten die Formen von **gleiten**?
 
 A: | Form | Deutsch |
 |------|--------|
-| Infinitiv | **saufen** |
-| Präsens (er/sie/es) | **säuft** |
-| Präteritum (er/sie/es) | **soff** |
-| Perfekt (er/sie/es) | **hat gesoffen** |
+| Infinitiv | **gleiten** |
+| Präsens (er/sie/es) | **gleitet** |
+| Präteritum (er/sie/es) | **glitt** |
+| Perfekt (er/sie/es) | **ist geglitten** |
 
-Q: Wie lauten die Formen von **schiessen**?
-
-A: | Form | Deutsch |
-|------|--------|
-| Infinitiv | **schiessen** |
-| Präsens (er/sie/es) | **schiesst** |
-| Präteritum (er/sie/es) | **schoss** |
-| Perfekt (er/sie/es) | **hat geschossen** |
-
-Q: Wie lauten die Formen von **schneiden**?
+Q: Wie lauten die Formen von **helfen**?
 
 A: | Form | Deutsch |
 |------|--------|
-| Infinitiv | **schneiden** |
-| Präsens (er/sie/es) | **schneidet** |
-| Präteritum (er/sie/es) | **schnitt** |
-| Perfekt (er/sie/es) | **hat geschnitten** |
+| Infinitiv | **helfen** |
+| Präsens (er/sie/es) | **hilft** |
+| Präteritum (er/sie/es) | **half** |
+| Perfekt (er/sie/es) | **hat geholfen** |
 
-Q: Wie lauten die Formen von **senden** (im Sinn von: ausstrahlen)?
+Q: Wie lauten die Formen von **lachen**?
+
+A: | Form | Deutsch |
+|------|--------|
+| Infinitiv | **lachen** |
+| Präsens (er/sie/es) | **lacht** |
+| Präteritum (er/sie/es) | **lachte** |
+| Perfekt (er/sie/es) | **hat gelacht** |
+
+Q: Wie lauten die Formen von **lügen**?
+
+A: | Form | Deutsch |
+|------|--------|
+| Infinitiv | **lügen** |
+| Präsens (er/sie/es) | **lügt** |
+| Präteritum (er/sie/es) | **log** |
+| Perfekt (er/sie/es) | **hat gelogen** |
+
+Q: Wie lauten die Formen von **nennen**?
+
+A: | Form | Deutsch |
+|------|--------|
+| Infinitiv | **nennen** |
+| Präsens (er/sie/es) | **nennt** |
+| Präteritum (er/sie/es) | **nannte** |
+| Perfekt (er/sie/es) | **hat genannt** |
+
+Q: Wie lauten die Formen von **reissen**?
+
+A: | Form | Deutsch |
+|------|--------|
+| Infinitiv | **reissen** |
+| Präsens (er/sie/es) | **reisst** |
+| Präteritum (er/sie/es) | **riss** |
+| Perfekt (er/sie/es) | **hat gerissen** |
+
+Q: Wie lauten die Formen von **saugen**?
+
+A: | Form | Deutsch |
+|------|--------|
+| Infinitiv | **saugen** |
+| Präsens (er/sie/es) | **saugt** |
+| Präteritum (er/sie/es) | **sog** |
+| Perfekt (er/sie/es) | **hat gesogen** |
+
+Q: Wie lauten die Formen von **schimpfen**?
+
+A: | Form | Deutsch |
+|------|--------|
+| Infinitiv | **schimpfen** |
+| Präsens (er/sie/es) | **schimpft** |
+| Präteritum (er/sie/es) | **schimpfte** |
+| Perfekt (er/sie/es) | **hat geschimpft** |
+
+Q: Wie lauten die Formen von **schreiben**?
+
+A: | Form | Deutsch |
+|------|--------|
+| Infinitiv | **schreiben** |
+| Präsens (er/sie/es) | **schreibt** |
+| Präteritum (er/sie/es) | **schrieb** |
+| Perfekt (er/sie/es) | **hat geschrieben** |
+
+Q: Wie lauten die Formen von **senden** (in der Bedeutung von: schicken)?
 
 A: | Form | Deutsch |
 |------|--------|
@@ -124,34 +133,34 @@ A: | Form | Deutsch |
 | Präteritum (er/sie/es) | **sandte** |
 | Perfekt (er/sie/es) | **hat gesandt** |
 
-Q: Wie lauten die Formen von **stechen**?
+Q: Wie lauten die Formen von **stehen**?
 
 A: | Form | Deutsch |
 |------|--------|
-| Infinitiv | **stechen** |
-| Präsens (er/sie/es) | **sticht** |
-| Präteritum (er/sie/es) | **stach** |
-| Perfekt (er/sie/es) | **hat gestochen** |
+| Infinitiv | **stehen** |
+| Präsens (er/sie/es) | **steht** |
+| Präteritum (er/sie/es) | **stand** |
+| Perfekt (er/sie/es) | **hat gestanden** |
 
-Q: Wie lauten die Formen von **treffen**?
-
-A: | Form | Deutsch |
-|------|--------|
-| Infinitiv | **treffen** |
-| Präsens (er/sie/es) | **trifft** |
-| Präteritum (er/sie/es) | **traf** |
-| Perfekt (er/sie/es) | **hat getroffen** |
-
-Q: Wie lauten die Formen von **verschwinden**?
+Q: Wie lauten die Formen von **treiben**?
 
 A: | Form | Deutsch |
 |------|--------|
-| Infinitiv | **verschwinden** |
-| Präsens (er/sie/es) | **verschwindet** |
-| Präteritum (er/sie/es) | **verschwand** |
-| Perfekt (er/sie/es) | **ist verschwunden** |
+| Infinitiv | **treiben** |
+| Präsens (er/sie/es) | **treibt** |
+| Präteritum (er/sie/es) | **trieb** |
+| Perfekt (er/sie/es) | **hat getrieben** |
 
-Q: Wie lauten die Formen von **wiegen** (im Sinn von: hin und her bewegen)?
+Q: Wie lauten die Formen von **verzeihen**?
+
+A: | Form | Deutsch |
+|------|--------|
+| Infinitiv | **verzeihen** |
+| Präsens (er/sie/es) | **verzeiht** |
+| Präteritum (er/sie/es) | **verzieh** |
+| Perfekt (er/sie/es) | **hat verziehen** |
+
+Q: Wie lauten die Formen von **wiegen** (in der Bedeutung von: ein Gewicht haben, ein Gewicht messen)?
 
 A: | Form | Deutsch |
 |------|--------|
