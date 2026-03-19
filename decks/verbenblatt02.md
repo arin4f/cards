@@ -1,170 +1,151 @@
-Q: Wie lauten die Formen von **befehlen**?
+Q: befehlen
 
-A: | Form | Deutsch |
-|------|--------|
-| Infinitiv | **befehlen** |
-| Präsens (er/sie/es) | **befiehlt** |
-| Präteritum (er/sie/es) | **befahl** |
-| Perfekt (er/sie/es) | **hat befohlen** |
+A: | | |
+|---|---|
+| **Präsens** | befiehlt |
+| **Präteritum** | befahl |
+| **Perfekt** | hat befohlen |
 
-Q: Wie lauten die Formen von **blasen**?
+Q: blasen
 
-A: | Form | Deutsch |
-|------|--------|
-| Infinitiv | **blasen** |
-| Präsens (er/sie/es) | **bläst** |
-| Präteritum (er/sie/es) | **blies** |
-| Perfekt (er/sie/es) | **hat geblasen** |
+A: | | |
+|---|---|
+| **Präsens** | bläst |
+| **Präteritum** | blies |
+| **Perfekt** | hat geblasen |
 
-Q: Wie lauten die Formen von **empfangen**?
+Q: empfangen
 
-A: | Form | Deutsch |
-|------|--------|
-| Infinitiv | **empfangen** |
-| Präsens (er/sie/es) | **empfängt** |
-| Präteritum (er/sie/es) | **empfing** |
-| Perfekt (er/sie/es) | **hat empfangen** |
+A: | | |
+|---|---|
+| **Präsens** | empfängt |
+| **Präteritum** | empfing |
+| **Perfekt** | hat empfangen |
 
-Q: Wie lauten die Formen von **fallen**?
+Q: fallen
 
-A: | Form | Deutsch |
-|------|--------|
-| Infinitiv | **fallen** |
-| Präsens (er/sie/es) | **fällt** |
-| Präteritum (er/sie/es) | **fiel** |
-| Perfekt (er/sie/es) | **ist gefallen** |
+A: | | |
+|---|---|
+| **Präsens** | fällt |
+| **Präteritum** | fiel |
+| **Perfekt** | ist gefallen |
 
-Q: Wie lauten die Formen von **frieren**?
+Q: frieren
 
-A: | Form | Deutsch |
-|------|--------|
-| Infinitiv | **frieren** |
-| Präsens (er/sie/es) | **friert** |
-| Präteritum (er/sie/es) | **fror** |
-| Perfekt (er/sie/es) | **hat/ist gefroren** |
+A: | | |
+|---|---|
+| **Präsens** | friert |
+| **Präteritum** | fror |
+| **Perfekt** | hat/ist gefroren |
 
-Q: Wie lauten die Formen von **gewinnen**?
+Q: gewinnen
 
-A: | Form | Deutsch |
-|------|--------|
-| Infinitiv | **gewinnen** |
-| Präsens (er/sie/es) | **gewinnt** |
-| Präteritum (er/sie/es) | **gewann** |
-| Perfekt (er/sie/es) | **hat gewonnen** |
+A: | | |
+|---|---|
+| **Präsens** | gewinnt |
+| **Präteritum** | gewann |
+| **Perfekt** | hat gewonnen |
 
-Q: Wie lauten die Formen von **heben**?
+Q: heben
 
-A: | Form | Deutsch |
-|------|--------|
-| Infinitiv | **heben** |
-| Präsens (er/sie/es) | **hebt** |
-| Präteritum (er/sie/es) | **hob** |
-| Perfekt (er/sie/es) | **hat gehoben** |
+A: | | |
+|---|---|
+| **Präsens** | hebt |
+| **Präteritum** | hob |
+| **Perfekt** | hat gehoben |
 
-Q: Wie lauten die Formen von **können**?
+Q: können
 
-A: | Form | Deutsch |
-|------|--------|
-| Infinitiv | **können** |
-| Präsens (er/sie/es) | **kann** |
-| Präteritum (er/sie/es) | **konnte** |
-| Perfekt (er/sie/es) | **hat gekonnt** |
+A: | | |
+|---|---|
+| **Präsens** | kann |
+| **Präteritum** | konnte |
+| **Perfekt** | hat gekonnt |
 
-Q: Wie lauten die Formen von **lesen**?
+Q: lesen
 
-A: | Form | Deutsch |
-|------|--------|
-| Infinitiv | **lesen** |
-| Präsens (er/sie/es) | **liest** |
-| Präteritum (er/sie/es) | **las** |
-| Perfekt (er/sie/es) | **hat gelesen** |
+A: | | |
+|---|---|
+| **Präsens** | liest |
+| **Präteritum** | las |
+| **Perfekt** | hat gelesen |
 
-Q: Wie lauten die Formen von **müssen**?
+Q: müssen
 
-A: | Form | Deutsch |
-|------|--------|
-| Infinitiv | **müssen** |
-| Präsens (er/sie/es) | **muss** |
-| Präteritum (er/sie/es) | **musste** |
-| Perfekt (er/sie/es) | **hat gemusst** |
+A: | | |
+|---|---|
+| **Präsens** | muss |
+| **Präteritum** | musste |
+| **Perfekt** | hat gemusst |
 
-Q: Wie lauten die Formen von **reifen**?
+Q: reifen
 
-A: | Form | Deutsch |
-|------|--------|
-| Infinitiv | **reifen** |
-| Präsens (er/sie/es) | **reift** |
-| Präteritum (er/sie/es) | **reifte** |
-| Perfekt (er/sie/es) | **ist gereift** |
+A: | | |
+|---|---|
+| **Präsens** | reift |
+| **Präteritum** | reifte |
+| **Perfekt** | ist gereift |
 
-Q: Wie lauten die Formen von **sägen**?
+Q: sägen
 
-A: | Form | Deutsch |
-|------|--------|
-| Infinitiv | **sägen** |
-| Präsens (er/sie/es) | **sägt** |
-| Präteritum (er/sie/es) | **sägte** |
-| Perfekt (er/sie/es) | **hat gesägt** |
+A: | | |
+|---|---|
+| **Präsens** | sägt |
+| **Präteritum** | sägte |
+| **Perfekt** | hat gesägt |
 
-Q: Wie lauten die Formen von **siegen**?
+Q: siegen
 
-A: | Form | Deutsch |
-|------|--------|
-| Infinitiv | **siegen** |
-| Präsens (er/sie/es) | **siegt** |
-| Präteritum (er/sie/es) | **siegte** |
-| Perfekt (er/sie/es) | **hat gesiegt** |
+A: | | |
+|---|---|
+| **Präsens** | siegt |
+| **Präteritum** | siegte |
+| **Perfekt** | hat gesiegt |
 
-Q: Wie lauten die Formen von **schmelzen**?
+Q: schmelzen
 
-A: | Form | Deutsch |
-|------|--------|
-| Infinitiv | **schmelzen** |
-| Präsens (er/sie/es) | **schmilzt** |
-| Präteritum (er/sie/es) | **schmolz** |
-| Perfekt (er/sie/es) | **ist/hat geschmolzen** |
+A: | | |
+|---|---|
+| **Präsens** | schmilzt |
+| **Präteritum** | schmolz |
+| **Perfekt** | ist/hat geschmolzen |
 
-Q: Wie lauten die Formen von **sein**?
+Q: sein
 
-A: | Form | Deutsch |
-|------|--------|
-| Infinitiv | **sein** |
-| Präsens (er/sie/es) | **ist** |
-| Präteritum (er/sie/es) | **war** |
-| Perfekt (er/sie/es) | **ist gewesen** |
+A: | | |
+|---|---|
+| **Präsens** | ist |
+| **Präteritum** | war |
+| **Perfekt** | ist gewesen |
 
-Q: Wie lauten die Formen von **springen**?
+Q: springen
 
-A: | Form | Deutsch |
-|------|--------|
-| Infinitiv | **springen** |
-| Präsens (er/sie/es) | **springt** |
-| Präteritum (er/sie/es) | **sprang** |
-| Perfekt (er/sie/es) | **ist gesprungen** |
+A: | | |
+|---|---|
+| **Präsens** | springt |
+| **Präteritum** | sprang |
+| **Perfekt** | ist gesprungen |
 
-Q: Wie lauten die Formen von **tragen**?
+Q: tragen
 
-A: | Form | Deutsch |
-|------|--------|
-| Infinitiv | **tragen** |
-| Präsens (er/sie/es) | **trägt** |
-| Präteritum (er/sie/es) | **trug** |
-| Perfekt (er/sie/es) | **hat getragen** |
+A: | | |
+|---|---|
+| **Präsens** | trägt |
+| **Präteritum** | trug |
+| **Perfekt** | hat getragen |
 
-Q: Wie lauten die Formen von **verordnen**?
+Q: verordnen
 
-A: | Form | Deutsch |
-|------|--------|
-| Infinitiv | **verordnen** |
-| Präsens (er/sie/es) | **verordnet** |
-| Präteritum (er/sie/es) | **verordnete** |
-| Perfekt (er/sie/es) | **hat verordnet** |
+A: | | |
+|---|---|
+| **Präsens** | verordnet |
+| **Präteritum** | verordnete |
+| **Perfekt** | hat verordnet |
 
-Q: Wie lauten die Formen von **werfen**?
+Q: werfen
 
-A: | Form | Deutsch |
-|------|--------|
-| Infinitiv | **werfen** |
-| Präsens (er/sie/es) | **wirft** |
-| Präteritum (er/sie/es) | **warf** |
-| Perfekt (er/sie/es) | **hat geworfen** |
+A: | | |
+|---|---|
+| **Präsens** | wirft |
+| **Präteritum** | warf |
+| **Perfekt** | hat geworfen |

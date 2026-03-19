@@ -1,42 +1,84 @@
 // ── Config ────────────────────────────────────────────────────────
-const REPO_OWNER = 'arin4f';
-const REPO_NAME = 'cards';
 const DECKS_DIR = 'decks';
-const PROGRESS_PREFIX = 'flashcard_progress_';
-const NEW_CARDS_PER_SESSION = 10;
+
+const SESSION_KEY = 'flashcard_session';
+const PROGRESS_PREFIX = 'flashcard_learned_';
 
 let state = {
-  view: 'home', // home | deck | study
+  view: 'home', // home | deck | study | editor
   decks: [],
   currentDeck: null,
   studySession: null,
   loading: true,
 };
 
-// ── Persistence (progress only) ──────────────────────────────────
-function loadProgress(deckName) {
+// ── Session persistence ──────────────────────────────────────────
+function saveSession() {
+  if (!state.studySession || !state.currentDeck) {
+    localStorage.removeItem(SESSION_KEY);
+    return;
+  }
+  localStorage.setItem(SESSION_KEY, JSON.stringify({
+    deckName: state.currentDeck.name,
+    cardIndices: state.studySession.cardIndices,
+    current: state.studySession.current,
+    total: state.studySession.total,
+  }));
+}
+
+function clearSession() {
+  localStorage.removeItem(SESSION_KEY);
+}
+
+function restoreSession() {
+  try {
+    const raw = localStorage.getItem(SESSION_KEY);
+    if (!raw) return false;
+    const saved = JSON.parse(raw);
+    const deck = state.decks.find(d => d.name === saved.deckName);
+    if (!deck) { clearSession(); return false; }
+    state.currentDeck = deck;
+    state.studySession = {
+      cardIndices: saved.cardIndices,
+      current: saved.current,
+      flipped: false,
+      total: saved.total,
+    };
+    state.view = 'study';
+    return true;
+  } catch { clearSession(); return false; }
+}
+
+// ── Progress tracking ────────────────────────────────────────────
+function loadLearned(deckName) {
   try {
     const raw = localStorage.getItem(PROGRESS_PREFIX + deckName);
-    return raw ? JSON.parse(raw) : {};
-  } catch { return {}; }
+    return raw ? JSON.parse(raw) : [];
+  } catch { return []; }
 }
 
-function saveProgress(deckName, progress) {
-  localStorage.setItem(PROGRESS_PREFIX + deckName, JSON.stringify(progress));
+function markLearned(deckName, cardIdx) {
+  const learned = loadLearned(deckName);
+  if (!learned.includes(cardIdx)) {
+    learned.push(cardIdx);
+    localStorage.setItem(PROGRESS_PREFIX + deckName, JSON.stringify(learned));
+  }
 }
 
-// ── Fetch decks from GitHub ──────────────────────────────────────
-async function fetchDecksFromRepo() {
-  const apiUrl = `https://api.github.com/repos/${REPO_OWNER}/${REPO_NAME}/contents/${DECKS_DIR}`;
-  const resp = await fetch(apiUrl);
-  if (!resp.ok) throw new Error(`GitHub API error: ${resp.status}`);
+function resetLearned(deckName) {
+  localStorage.removeItem(PROGRESS_PREFIX + deckName);
+}
+
+// ── Fetch decks ──────────────────────────────────────────────────
+async function fetchDecks() {
+  const resp = await fetch(`${DECKS_DIR}/index.json`);
+  if (!resp.ok) throw new Error(`Failed to load deck index: ${resp.status}`);
   const files = await resp.json();
-  const mdFiles = files.filter(f => f.name.endsWith('.md'));
 
-  const decks = await Promise.all(mdFiles.map(async (f) => {
-    const raw = await fetch(f.download_url);
+  const decks = await Promise.all(files.map(async (filename) => {
+    const raw = await fetch(`${DECKS_DIR}/${filename}`);
     const markdown = await raw.text();
-    return parseDeckFromFile(f.name, markdown);
+    return parseDeckFromFile(filename, markdown);
   }));
 
   return decks.filter(d => d.cards.length > 0);
@@ -54,7 +96,7 @@ function parseDeckFromFile(filename, markdown) {
   }
 
   const cards = parseCards(content);
-  return { name, markdown: content, cards };
+  return { name, filename, markdown: content, cards };
 }
 
 // ── Markdown Parsing ──────────────────────────────────────────────
@@ -83,80 +125,15 @@ function renderMarkdown(text) {
   }
 }
 
-// ── SM-2 Algorithm ────────────────────────────────────────────────
-function todayStr() {
-  return new Date().toISOString().slice(0, 10);
-}
 
-function getCardProgress(progress, idx) {
-  return progress[idx] || {
-    interval: 0,
-    repetitions: 0,
-    easeFactor: 2.5,
-    nextReview: todayStr(),
-  };
-}
-
-function sm2(card, quality) {
-  let { interval, repetitions, easeFactor } = card;
-
-  if (quality === 0) {
-    repetitions = 0;
-    interval = 0;
-  } else {
-    if (repetitions === 0) {
-      interval = 1;
-    } else if (repetitions === 1) {
-      interval = 3;
-    } else {
-      interval = Math.round(interval * easeFactor);
-    }
-    repetitions++;
-  }
-
-  const q = quality + 1;
-  easeFactor = easeFactor + (0.1 - (4 - q) * (0.08 + (4 - q) * 0.02));
-  if (easeFactor < 1.3) easeFactor = 1.3;
-
-  if (quality === 3 && interval > 0) {
-    interval = Math.round(interval * 1.3);
-  }
-
-  const next = new Date();
-  next.setDate(next.getDate() + (interval || 0));
-
-  return {
-    interval,
-    repetitions,
-    easeFactor,
-    nextReview: interval === 0 ? todayStr() : next.toISOString().slice(0, 10),
-  };
-}
-
-function getDueCards(deck) {
-  const progress = loadProgress(deck.name);
-  const today = todayStr();
-  const due = [];
-  const newCards = [];
-
-  deck.cards.forEach((card, idx) => {
-    const p = progress[idx];
-    if (!p) {
-      newCards.push(idx);
-    } else if (p.nextReview <= today) {
-      due.push(idx);
-    }
-  });
-
-  for (let i = due.length - 1; i > 0; i--) {
+function getAllCardIndices(deck) {
+  const indices = deck.cards.map((_, idx) => idx);
+  // Shuffle
+  for (let i = indices.length - 1; i > 0; i--) {
     const j = Math.floor(Math.random() * (i + 1));
-    [due[i], due[j]] = [due[j], due[i]];
+    [indices[i], indices[j]] = [indices[j], indices[i]];
   }
-
-  const slotsForNew = Math.max(0, NEW_CARDS_PER_SESSION - due.length);
-  const addNew = newCards.slice(0, Math.max(slotsForNew, Math.min(NEW_CARDS_PER_SESSION, newCards.length)));
-
-  return [...due, ...addNew];
+  return indices;
 }
 
 // ── Rendering ─────────────────────────────────────────────────────
@@ -167,6 +144,7 @@ function render() {
     case 'home': renderHome(); break;
     case 'deck': renderDeck(); break;
     case 'study': renderStudy(); break;
+    case 'editor': renderEditor(); break;
   }
 }
 
@@ -182,12 +160,12 @@ function renderHome() {
   const decksHtml = state.decks.length === 0
     ? '<div class="empty-state">No decks found.<br>Add .md files to the <code>decks/</code> folder in the repo.</div>'
     : state.decks.map((d, i) => {
-        const dueCount = getDueCards(d).length;
+        const lc = loadLearned(d.name).length;
         return `<div class="deck-item" data-idx="${i}">
           <h3>${esc(d.name)}</h3>
           <div class="deck-meta">
-            <span>${d.cards.length} card${d.cards.length !== 1 ? 's' : ''}</span>
-            ${dueCount > 0 ? `<span class="due">${dueCount} due</span>` : '<span>All caught up</span>'}
+            <span>${d.cards.length} cards</span>
+            <span>${lc > 0 ? `${lc}/${d.cards.length} learned` : ''}</span>
           </div>
         </div>`;
       }).join('');
@@ -213,10 +191,8 @@ function renderHome() {
 
 function renderDeck() {
   const d = state.currentDeck;
-  const dueCards = getDueCards(d);
-  const progress = loadProgress(d.name);
-  const reviewed = Object.keys(progress).length;
-
+  const learned = loadLearned(d.name);
+  const learnedCount = learned.length;
   app.innerHTML = `
     <div class="header">
       <button class="back-btn" id="back-btn">&larr; Back</button>
@@ -225,14 +201,15 @@ function renderDeck() {
     <div class="deck-detail">
       <div class="deck-stats">
         <div><div class="stat-value">${d.cards.length}</div><div class="stat-label">Total</div></div>
-        <div><div class="stat-value">${reviewed}</div><div class="stat-label">Seen</div></div>
-        <div><div class="stat-value" style="color:var(--accent)">${dueCards.length}</div><div class="stat-label">Due</div></div>
+        <div><div class="stat-value" style="color:var(--green)">${learnedCount}</div><div class="stat-label">Learned</div></div>
+        <div><div class="stat-value" style="color:var(--accent)">${d.cards.length - learnedCount}</div><div class="stat-label">Remaining</div></div>
       </div>
       <div class="deck-actions">
-        <button class="btn btn-primary btn-block" id="study-btn" ${dueCards.length === 0 ? 'disabled style="opacity:0.5"' : ''}>
-          Study ${dueCards.length > 0 ? `(${dueCards.length} cards)` : '— All caught up!'}
+        <button class="btn btn-primary btn-block" id="study-btn">
+          Study (${d.cards.length} cards)
         </button>
-        <button class="btn btn-secondary btn-block" id="reset-btn">Reset Progress</button>
+        <button class="btn btn-secondary btn-block" id="edit-btn">Edit Deck</button>
+        ${learnedCount > 0 ? '<button class="btn btn-danger btn-block" id="reset-btn">Reset Progress</button>' : ''}
       </div>
     </div>
     <div id="confirm-root"></div>
@@ -241,24 +218,31 @@ function renderDeck() {
   document.getElementById('back-btn').onclick = () => { state.view = 'home'; render(); };
 
   document.getElementById('study-btn').onclick = () => {
-    if (dueCards.length === 0) return;
     state.studySession = {
-      cardIndices: dueCards,
+      cardIndices: getAllCardIndices(d),
       current: 0,
       flipped: false,
-      total: dueCards.length,
+      total: d.cards.length,
     };
     state.view = 'study';
+    saveSession();
     render();
   };
 
-  document.getElementById('reset-btn').onclick = () => {
-    showConfirm('Reset Progress', `Reset all study progress for "${d.name}"?`, () => {
-      localStorage.removeItem(PROGRESS_PREFIX + d.name);
-      state.view = 'deck';
-      render();
-    });
+  document.getElementById('edit-btn').onclick = () => {
+    state.view = 'editor';
+    render();
   };
+
+  const resetBtn = document.getElementById('reset-btn');
+  if (resetBtn) {
+    resetBtn.onclick = () => {
+      showConfirm('Reset Progress', `Reset learned progress for "${d.name}"?`, () => {
+        resetLearned(d.name);
+        render();
+      });
+    };
+  }
 }
 
 function renderStudy() {
@@ -266,6 +250,7 @@ function renderStudy() {
   const s = state.studySession;
 
   if (!s || s.current >= s.cardIndices.length) {
+    clearSession();
     renderSessionComplete();
     return;
   }
@@ -281,23 +266,20 @@ function renderStudy() {
   const hint = s.flipped ? '' : '<div class="tap-hint">Tap to reveal answer</div>';
 
   app.innerHTML = `
-    <div class="header">
-      <button class="back-btn" id="back-btn">&larr; Quit</button>
-      <h1>${esc(d.name)}</h1>
-    </div>
     <div class="study-container">
-      <div class="progress-bar-container"><div class="progress-bar" style="width:${pct}%"></div></div>
-      <div class="card-counter">${s.current + 1} of ${s.total}</div>
+      <div class="study-topbar">
+        <button class="back-btn" id="back-btn">&larr;</button>
+        <div class="progress-bar-container"><div class="progress-bar" style="width:${pct}%"></div></div>
+        <div class="card-counter">${s.current + 1} / ${s.total}</div>
+      </div>
       <div class="flashcard ${s.flipped ? 'flipped' : ''}" id="flashcard">
         <div class="flashcard-content">${content}</div>
         ${hint}
       </div>
       ${s.flipped ? `
-        <div class="rating-buttons">
-          <button class="rating-btn again" data-q="0">Again</button>
-          <button class="rating-btn hard" data-q="1">Hard</button>
-          <button class="rating-btn good" data-q="2">Good</button>
-          <button class="rating-btn easy" data-q="3">Easy</button>
+        <div class="rating-buttons two-buttons">
+          <button class="rating-btn again" data-q="0">Repeat</button>
+          <button class="rating-btn good" data-q="1">OK</button>
         </div>
       ` : ''}
     </div>
@@ -305,6 +287,7 @@ function renderStudy() {
 
   document.getElementById('back-btn').onclick = () => {
     state.studySession = null;
+    clearSession();
     state.view = 'deck';
     render();
   };
@@ -321,13 +304,14 @@ function renderStudy() {
     btn.onclick = () => {
       const quality = parseInt(btn.dataset.q);
       const cardIdx = s.cardIndices[s.current];
-      const progress = loadProgress(d.name);
-      const cardP = getCardProgress(progress, cardIdx);
-      const updated = sm2(cardP, quality);
-      progress[cardIdx] = updated;
-      saveProgress(d.name, progress);
 
-      if (quality === 0 && s.current + 2 < s.cardIndices.length) {
+      // "OK" marks card as learned
+      if (quality === 1) {
+        markLearned(d.name, cardIdx);
+      }
+
+      // "Repeat" re-queues the card a few positions later
+      if (quality === 0 && s.current + 1 < s.cardIndices.length) {
         const reinsertAt = Math.min(s.current + 3 + Math.floor(Math.random() * 3), s.cardIndices.length);
         s.cardIndices.splice(reinsertAt, 0, cardIdx);
         s.total = s.cardIndices.length;
@@ -335,9 +319,44 @@ function renderStudy() {
 
       s.current++;
       s.flipped = false;
+      saveSession();
       render();
     };
   });
+}
+
+function renderEditor() {
+  const d = state.currentDeck;
+
+  app.innerHTML = `
+    <div class="header">
+      <button class="back-btn" id="cancel-btn">&larr; Cancel</button>
+      <h1>Edit Deck</h1>
+    </div>
+    <div class="editor">
+      <textarea id="deck-content">${esc(d.markdown)}</textarea>
+      <button class="btn btn-primary btn-block" id="save-btn">Save</button>
+    </div>
+  `;
+
+  document.getElementById('cancel-btn').onclick = () => {
+    state.view = 'deck';
+    render();
+  };
+
+  document.getElementById('save-btn').onclick = () => {
+    const content = document.getElementById('deck-content').value;
+    const cards = parseCards(content);
+    if (cards.length === 0) {
+      alert('No valid Q:/A: cards found.');
+      return;
+    }
+    d.markdown = content;
+    d.cards = cards;
+    resetLearned(d.name);
+    state.view = 'deck';
+    render();
+  };
 }
 
 function renderSessionComplete() {
@@ -357,10 +376,12 @@ function renderSessionComplete() {
   document.getElementById('back-btn').onclick =
   document.getElementById('done-btn').onclick = () => {
     state.studySession = null;
+    clearSession();
     state.view = 'deck';
     render();
   };
 }
+
 
 // ── Confirm Dialog ────────────────────────────────────────────────
 function showConfirm(title, message, onConfirm) {
@@ -377,12 +398,8 @@ function showConfirm(title, message, onConfirm) {
     </div>
   `;
   document.body.appendChild(overlay);
-
   overlay.querySelector('#confirm-cancel').onclick = () => overlay.remove();
-  overlay.querySelector('#confirm-ok').onclick = () => {
-    overlay.remove();
-    onConfirm();
-  };
+  overlay.querySelector('#confirm-ok').onclick = () => { overlay.remove(); onConfirm(); };
   overlay.onclick = (e) => { if (e.target === overlay) overlay.remove(); };
 }
 
@@ -400,13 +417,14 @@ async function init() {
   render();
 
   try {
-    state.decks = await fetchDecksFromRepo();
+    state.decks = await fetchDecks();
   } catch (err) {
     console.error('Failed to fetch decks:', err);
     state.decks = [];
   }
 
   state.loading = false;
+  restoreSession();
   render();
 }
 

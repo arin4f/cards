@@ -223,10 +223,32 @@ html, body {
   gap: 16px;
 }
 
+.study-topbar {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  flex-shrink: 0;
+}
+
+.study-topbar .back-btn {
+  padding: 4px 8px;
+  min-height: 36px;
+  min-width: 36px;
+  font-size: 1rem;
+}
+
+.study-topbar .progress-bar-container {
+  flex: 1;
+}
+
+.study-topbar .card-counter {
+  white-space: nowrap;
+}
+
 .progress-bar-container {
   background: rgba(255,255,255,0.08);
   border-radius: 6px;
-  height: 8px;
+  height: 6px;
   overflow: hidden;
   flex-shrink: 0;
 }
@@ -239,8 +261,7 @@ html, body {
 }
 
 .card-counter {
-  text-align: center;
-  font-size: 0.9rem;
+  font-size: 0.85rem;
   color: var(--text-muted);
   flex-shrink: 0;
 }
@@ -266,10 +287,16 @@ html, body {
 }
 
 .flashcard-content {
-  font-size: 1.15rem;
-  line-height: 1.7;
+  font-size: 2.2rem;
+  font-weight: 700;
+  line-height: 1.4;
   text-align: center;
   width: 100%;
+}
+
+.flashcard.flipped .flashcard-content {
+  font-size: 1.1rem;
+  font-weight: 400;
 }
 
 .flashcard-content h1, .flashcard-content h2, .flashcard-content h3 {
@@ -314,17 +341,33 @@ html, body {
 .flashcard-content table {
   width: 100%;
   border-collapse: collapse;
-  margin-bottom: 10px;
+  margin: 0 auto;
+  max-width: 500px;
 }
 
 .flashcard-content th, .flashcard-content td {
-  border: 1px solid rgba(255,255,255,0.15);
-  padding: 8px 12px;
+  border: none;
+  border-bottom: 1px solid rgba(255,255,255,0.1);
+  padding: 14px 20px;
   text-align: left;
+  font-size: 1.4rem;
+}
+
+.flashcard-content td:first-child {
+  font-size: 1rem;
+  color: var(--text-muted);
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+  width: 40%;
+}
+
+.flashcard-content td:last-child {
+  font-size: 1.4rem;
+  font-weight: 600;
 }
 
 .flashcard-content th {
-  background: rgba(0,0,0,0.2);
+  display: none;
 }
 
 .tap-hint {
@@ -337,19 +380,19 @@ html, body {
 /* Rating buttons */
 .rating-buttons {
   display: grid;
-  grid-template-columns: repeat(4, 1fr);
-  gap: 8px;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 12px;
   flex-shrink: 0;
 }
 
 .rating-btn {
-  padding: 14px 8px;
+  padding: 16px 8px;
   border: none;
   border-radius: 12px;
-  font-size: 0.9rem;
+  font-size: 1.1rem;
   font-weight: 600;
   cursor: pointer;
-  min-height: 52px;
+  min-height: 56px;
   transition: transform 0.1s;
   -webkit-user-select: none;
   user-select: none;
@@ -364,20 +407,11 @@ html, body {
   color: var(--red);
 }
 
-.rating-btn.hard {
-  background: rgba(230, 126, 34, 0.2);
-  color: var(--orange);
-}
-
 .rating-btn.good {
   background: rgba(39, 174, 96, 0.2);
   color: var(--green);
 }
 
-.rating-btn.easy {
-  background: rgba(52, 152, 219, 0.2);
-  color: #3498db;
-}
 
 /* Editor */
 .editor {
@@ -385,21 +419,6 @@ html, body {
   flex-direction: column;
   gap: 14px;
   flex: 1;
-}
-
-.editor input[type="text"] {
-  background: var(--surface);
-  border: 1px solid rgba(255,255,255,0.12);
-  border-radius: 12px;
-  padding: 14px 18px;
-  font-size: 1.05rem;
-  color: var(--text);
-  outline: none;
-  min-height: 48px;
-}
-
-.editor input[type="text"]:focus {
-  border-color: var(--accent);
 }
 
 .editor textarea {
@@ -420,12 +439,6 @@ html, body {
 
 .editor textarea:focus {
   border-color: var(--accent);
-}
-
-.editor-hint {
-  font-size: 0.82rem;
-  color: var(--text-muted);
-  line-height: 1.5;
 }
 
 /* Session complete */
