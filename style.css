@@ -1,0 +1,489 @@
+*, *::before, *::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+:root {
+  --bg: #1a1a2e;
+  --surface: #16213e;
+  --card: #0f3460;
+  --card-flip: #1a5276;
+  --accent: #e94560;
+  --accent-hover: #d63851;
+  --text: #eee;
+  --text-muted: #999;
+  --green: #27ae60;
+  --yellow: #f39c12;
+  --orange: #e67e22;
+  --red: #e74c3c;
+  --safe-top: env(safe-area-inset-top, 0px);
+  --safe-bottom: env(safe-area-inset-bottom, 0px);
+  --safe-left: env(safe-area-inset-left, 0px);
+  --safe-right: env(safe-area-inset-right, 0px);
+}
+
+html, body {
+  height: 100%;
+  background: var(--bg);
+  color: var(--text);
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', system-ui, sans-serif;
+  font-size: 18px;
+  line-height: 1.5;
+  -webkit-tap-highlight-color: transparent;
+  -webkit-text-size-adjust: 100%;
+  overscroll-behavior: none;
+}
+
+#app {
+  min-height: 100%;
+  padding: calc(20px + var(--safe-top)) calc(20px + var(--safe-right)) calc(20px + var(--safe-bottom)) calc(20px + var(--safe-left));
+  max-width: 800px;
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+}
+
+/* Header */
+.header {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  margin-bottom: 24px;
+  flex-shrink: 0;
+}
+
+.header h1 {
+  font-size: 1.5rem;
+  font-weight: 700;
+  flex: 1;
+}
+
+.back-btn {
+  background: none;
+  border: none;
+  color: var(--accent);
+  font-size: 1.1rem;
+  cursor: pointer;
+  padding: 8px 12px;
+  min-height: 44px;
+  min-width: 44px;
+  display: flex;
+  align-items: center;
+  border-radius: 8px;
+}
+
+.back-btn:active {
+  background: rgba(233, 69, 96, 0.15);
+}
+
+/* Buttons */
+.btn {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  padding: 12px 24px;
+  border: none;
+  border-radius: 12px;
+  font-size: 1rem;
+  font-weight: 600;
+  cursor: pointer;
+  min-height: 48px;
+  min-width: 48px;
+  transition: background 0.15s, transform 0.1s;
+  -webkit-user-select: none;
+  user-select: none;
+}
+
+.btn:active {
+  transform: scale(0.97);
+}
+
+.btn-primary {
+  background: var(--accent);
+  color: white;
+}
+
+.btn-primary:active {
+  background: var(--accent-hover);
+}
+
+.btn-secondary {
+  background: var(--surface);
+  color: var(--text);
+  border: 1px solid rgba(255,255,255,0.1);
+}
+
+.btn-danger {
+  background: rgba(231, 76, 60, 0.15);
+  color: var(--red);
+  border: 1px solid rgba(231, 76, 60, 0.3);
+}
+
+.btn-block {
+  width: 100%;
+}
+
+.btn-group {
+  display: flex;
+  gap: 10px;
+}
+
+.btn-group .btn {
+  flex: 1;
+}
+
+/* Deck list */
+.deck-list {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  flex: 1;
+}
+
+.deck-item {
+  background: var(--surface);
+  border-radius: 14px;
+  padding: 18px 20px;
+  cursor: pointer;
+  transition: background 0.15s;
+  border: 1px solid rgba(255,255,255,0.05);
+}
+
+.deck-item:active {
+  background: var(--card);
+}
+
+.deck-item h3 {
+  font-size: 1.15rem;
+  margin-bottom: 6px;
+}
+
+.deck-meta {
+  font-size: 0.85rem;
+  color: var(--text-muted);
+  display: flex;
+  gap: 16px;
+}
+
+.deck-meta .due {
+  color: var(--accent);
+  font-weight: 600;
+}
+
+.empty-state {
+  text-align: center;
+  color: var(--text-muted);
+  padding: 60px 20px;
+  font-size: 1.1rem;
+  line-height: 1.8;
+}
+
+/* Deck detail */
+.deck-detail {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  flex: 1;
+}
+
+.deck-stats {
+  background: var(--surface);
+  border-radius: 14px;
+  padding: 20px;
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 12px;
+  text-align: center;
+}
+
+.stat-value {
+  font-size: 1.8rem;
+  font-weight: 700;
+}
+
+.stat-label {
+  font-size: 0.8rem;
+  color: var(--text-muted);
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+}
+
+.deck-actions {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+/* Flashcard */
+.study-container {
+  display: flex;
+  flex-direction: column;
+  flex: 1;
+  gap: 16px;
+}
+
+.progress-bar-container {
+  background: rgba(255,255,255,0.08);
+  border-radius: 6px;
+  height: 8px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+
+.progress-bar {
+  height: 100%;
+  background: var(--accent);
+  border-radius: 6px;
+  transition: width 0.3s ease;
+}
+
+.card-counter {
+  text-align: center;
+  font-size: 0.9rem;
+  color: var(--text-muted);
+  flex-shrink: 0;
+}
+
+.flashcard {
+  flex: 1;
+  min-height: 300px;
+  background: var(--card);
+  border-radius: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 32px;
+  cursor: pointer;
+  transition: background 0.2s;
+  position: relative;
+  overflow-y: auto;
+  -webkit-overflow-scrolling: touch;
+}
+
+.flashcard.flipped {
+  background: var(--card-flip);
+}
+
+.flashcard-content {
+  font-size: 1.15rem;
+  line-height: 1.7;
+  text-align: center;
+  width: 100%;
+}
+
+.flashcard-content h1, .flashcard-content h2, .flashcard-content h3 {
+  margin-bottom: 12px;
+}
+
+.flashcard-content p {
+  margin-bottom: 10px;
+}
+
+.flashcard-content ul, .flashcard-content ol {
+  text-align: left;
+  padding-left: 24px;
+  margin-bottom: 10px;
+}
+
+.flashcard-content code {
+  background: rgba(0,0,0,0.3);
+  padding: 2px 6px;
+  border-radius: 4px;
+  font-size: 0.95em;
+}
+
+.flashcard-content pre {
+  background: rgba(0,0,0,0.3);
+  padding: 12px;
+  border-radius: 8px;
+  overflow-x: auto;
+  text-align: left;
+  margin-bottom: 10px;
+}
+
+.flashcard-content pre code {
+  background: none;
+  padding: 0;
+}
+
+.flashcard-content strong {
+  color: var(--accent);
+}
+
+.flashcard-content table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-bottom: 10px;
+}
+
+.flashcard-content th, .flashcard-content td {
+  border: 1px solid rgba(255,255,255,0.15);
+  padding: 8px 12px;
+  text-align: left;
+}
+
+.flashcard-content th {
+  background: rgba(0,0,0,0.2);
+}
+
+.tap-hint {
+  position: absolute;
+  bottom: 16px;
+  font-size: 0.8rem;
+  color: var(--text-muted);
+}
+
+/* Rating buttons */
+.rating-buttons {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 8px;
+  flex-shrink: 0;
+}
+
+.rating-btn {
+  padding: 14px 8px;
+  border: none;
+  border-radius: 12px;
+  font-size: 0.9rem;
+  font-weight: 600;
+  cursor: pointer;
+  min-height: 52px;
+  transition: transform 0.1s;
+  -webkit-user-select: none;
+  user-select: none;
+}
+
+.rating-btn:active {
+  transform: scale(0.95);
+}
+
+.rating-btn.again {
+  background: rgba(231, 76, 60, 0.2);
+  color: var(--red);
+}
+
+.rating-btn.hard {
+  background: rgba(230, 126, 34, 0.2);
+  color: var(--orange);
+}
+
+.rating-btn.good {
+  background: rgba(39, 174, 96, 0.2);
+  color: var(--green);
+}
+
+.rating-btn.easy {
+  background: rgba(52, 152, 219, 0.2);
+  color: #3498db;
+}
+
+/* Editor */
+.editor {
+  display: flex;
+  flex-direction: column;
+  gap: 14px;
+  flex: 1;
+}
+
+.editor input[type="text"] {
+  background: var(--surface);
+  border: 1px solid rgba(255,255,255,0.12);
+  border-radius: 12px;
+  padding: 14px 18px;
+  font-size: 1.05rem;
+  color: var(--text);
+  outline: none;
+  min-height: 48px;
+}
+
+.editor input[type="text"]:focus {
+  border-color: var(--accent);
+}
+
+.editor textarea {
+  flex: 1;
+  min-height: 300px;
+  background: var(--surface);
+  border: 1px solid rgba(255,255,255,0.12);
+  border-radius: 12px;
+  padding: 16px 18px;
+  font-size: 0.95rem;
+  font-family: 'SF Mono', 'Menlo', 'Consolas', monospace;
+  color: var(--text);
+  line-height: 1.6;
+  resize: vertical;
+  outline: none;
+  -webkit-overflow-scrolling: touch;
+}
+
+.editor textarea:focus {
+  border-color: var(--accent);
+}
+
+.editor-hint {
+  font-size: 0.82rem;
+  color: var(--text-muted);
+  line-height: 1.5;
+}
+
+/* Session complete */
+.session-complete {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  gap: 20px;
+}
+
+.session-complete .big-check {
+  font-size: 4rem;
+  line-height: 1;
+}
+
+.session-complete h2 {
+  font-size: 1.5rem;
+}
+
+.session-complete p {
+  color: var(--text-muted);
+  font-size: 1rem;
+}
+
+/* Confirm dialog */
+.confirm-overlay {
+  position: fixed;
+  inset: 0;
+  background: rgba(0,0,0,0.6);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 100;
+  padding: 20px;
+}
+
+.confirm-dialog {
+  background: var(--surface);
+  border-radius: 16px;
+  padding: 28px 24px;
+  max-width: 360px;
+  width: 100%;
+  text-align: center;
+}
+
+.confirm-dialog h3 {
+  margin-bottom: 10px;
+}
+
+.confirm-dialog p {
+  color: var(--text-muted);
+  margin-bottom: 20px;
+  font-size: 0.95rem;
+}
+
+.confirm-dialog .btn-group {
+  margin-top: 8px;
+}
