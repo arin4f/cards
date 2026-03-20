@@ -1,151 +1,151 @@
-Q: betrügen
+Q: bewegen
 
 A: | | |
 |---|---|
-| **Präsens** | betrügt |
-| **Präteritum** | betrog |
-| **Perfekt** | hat betrogen |
+| **Präsens** | bewegt |
+| **Präteritum** | bewegte |
+| **Perfekt** | hat bewegt |
 
-Q: brechen
-
-A: | | |
-|---|---|
-| **Präsens** | bricht |
-| **Präteritum** | brach |
-| **Perfekt** | hat gebrochen |
-
-Q: entzücken
+Q: brennen
 
 A: | | |
 |---|---|
-| **Präsens** | entzückt |
-| **Präteritum** | entzückte |
-| **Perfekt** | hat entzückt |
+| **Präsens** | brennt |
+| **Präteritum** | brannte |
+| **Perfekt** | hat gebrannt |
 
-Q: finden
-
-A: | | |
-|---|---|
-| **Präsens** | findet |
-| **Präteritum** | fand |
-| **Perfekt** | hat gefunden |
-
-Q: gehen
+Q: entzünden
 
 A: | | |
 |---|---|
-| **Präsens** | geht |
-| **Präteritum** | ging |
-| **Perfekt** | ist gegangen |
+| **Präsens** | entzündet |
+| **Präteritum** | entzündete |
+| **Perfekt** | hat entzündet |
 
-Q: glimmen
-
-A: | | |
-|---|---|
-| **Präsens** | glimmt |
-| **Präteritum** | glomm |
-| **Perfekt** | hat geglommen |
-
-Q: hinken
+Q: flechten
 
 A: | | |
 |---|---|
-| **Präsens** | hinkt |
-| **Präteritum** | hinkte |
-| **Perfekt** | ist gehinkt |
+| **Präsens** | flicht |
+| **Präteritum** | flocht |
+| **Perfekt** | hat geflochten |
 
-Q: laden
-
-A: | | |
-|---|---|
-| **Präsens** | lädt |
-| **Präteritum** | lud |
-| **Perfekt** | hat geladen |
-
-Q: mahlen
+Q: gelingen
 
 A: | | |
 |---|---|
-| **Präsens** | mahlt |
-| **Präteritum** | mahlte |
-| **Perfekt** | hat gemahlen |
+| **Präsens** | gelingt |
+| **Präteritum** | gelang |
+| **Perfekt** | ist gelungen |
 
-Q: niesen
-
-A: | | |
-|---|---|
-| **Präsens** | niest |
-| **Präteritum** | nieste |
-| **Perfekt** | hat geniest |
-
-Q: rennen
+Q: graben
 
 A: | | |
 |---|---|
-| **Präsens** | rennt |
-| **Präteritum** | rannte |
-| **Perfekt** | ist gerannt |
+| **Präsens** | gräbt |
+| **Präteritum** | grub |
+| **Perfekt** | hat gegraben |
+
+Q: kennen
+
+A: | | |
+|---|---|
+| **Präsens** | kennt |
+| **Präteritum** | kannte |
+| **Perfekt** | hat gekannt |
+
+Q: lassen
+
+A: | | |
+|---|---|
+| **Präsens** | lässt |
+| **Präteritum** | liess |
+| **Perfekt** | hat gelassen |
+
+Q: meiden
+
+A: | | |
+|---|---|
+| **Präsens** | meidet |
+| **Präteritum** | mied |
+| **Perfekt** | hat gemieden |
+
+Q: öffnen
+
+A: | | |
+|---|---|
+| **Präsens** | öffnet |
+| **Präteritum** | öffnete |
+| **Perfekt** | hat geöffnet |
+
+Q: riechen
+
+A: | | |
+|---|---|
+| **Präsens** | riecht |
+| **Präteritum** | roch |
+| **Perfekt** | hat gerochen |
 
 Q: schaffen
 
 A: | | |
 |---|---|
 | **Präsens** | schafft |
-| **Präteritum** | schaffte |
-| **Perfekt** | hat geschafft |
+| **Präteritum** | schuf |
+| **Perfekt** | hat geschaffen |
 
-Q: schlafen
-
-A: | | |
-|---|---|
-| **Präsens** | schläft |
-| **Präteritum** | schlief |
-| **Perfekt** | hat geschlafen |
-
-Q: schreien
+Q: schlagen
 
 A: | | |
 |---|---|
-| **Präsens** | schreit |
-| **Präteritum** | schrie |
-| **Perfekt** | hat geschrien |
+| **Präsens** | schlägt |
+| **Präteritum** | schlug |
+| **Perfekt** | hat geschlagen |
 
-Q: singen
-
-A: | | |
-|---|---|
-| **Präsens** | singt |
-| **Präteritum** | sang |
-| **Perfekt** | hat gesungen |
-
-Q: stehlen
+Q: schweigen
 
 A: | | |
 |---|---|
-| **Präsens** | stiehlt |
-| **Präteritum** | stahl |
-| **Perfekt** | hat gestohlen |
+| **Präsens** | schweigt |
+| **Präteritum** | schwieg |
+| **Perfekt** | hat geschwiegen |
 
-Q: treten
-
-A: | | |
-|---|---|
-| **Präsens** | tritt |
-| **Präteritum** | trat |
-| **Perfekt** | ist/hat getreten |
-
-Q: wachsen
+Q: sinken
 
 A: | | |
 |---|---|
-| **Präsens** | wächst |
-| **Präteritum** | wuchs |
-| **Perfekt** | ist gewachsen |
+| **Präsens** | sinkt |
+| **Präteritum** | sank |
+| **Perfekt** | ist gesunken |
 
-Q: winken
+Q: steigen
 
 A: | | |
 |---|---|
-| **Präsens** | winkt |
-| **Präteritum** | winkte |
-| **Perfekt** | hat/ist gewinkt |
+| **Präsens** | steigt |
+| **Präteritum** | stieg |
+| **Perfekt** | ist gestiegen |
+
+Q: trinken
+
+A: | | |
+|---|---|
+| **Präsens** | trinkt |
+| **Präteritum** | trank |
+| **Perfekt** | hat getrunken |
+
+Q: waschen
+
+A: | | |
+|---|---|
+| **Präsens** | wäscht |
+| **Präteritum** | wusch |
+| **Perfekt** | hat gewaschen |
+
+Q: wissen
+
+A: | | |
+|---|---|
+| **Präsens** | weiss |
+| **Präteritum** | wusste |
+| **Perfekt** | hat gewusst |
