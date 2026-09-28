@@ -1,379 +1,1251 @@
-Q: Was bedeutet „aufgestellt“ im Beispiel zu „fröhlich“?
+Q: **aufgestellt** (Schweiz)
 
-A: **Fröhlich, gut gelaunt.** So wird das Wort in der Schweiz verwendet.
+Welche Stimmung beschreibt das Wort?
 
-Q: **fröhlich** – Welche drei Wörter aus der Auswahl passen? Auswahl: aufgestellt, schwatzhaft, offen, glücklich, redefreudig, beschwingt.
+A: **fröhlich; gut gelaunt**
 
-A: **aufgestellt, glücklich, beschwingt.**
+Q: **fröhlich**
 
-Q: **gross** – Welche drei Wörter aus der Auswahl passen? Auswahl: eingebildet, mächtig, überheblich, berühmt, bemerkenswert, hochmütig.
+Wähle drei bedeutungsähnliche Wörter.
 
-A: **mächtig, berühmt, bemerkenswert.** Wahrscheinlich gemeinte Auswahl in den Bedeutungen „bedeutend“ oder „herausragend“. „Gross“ hat mehrere Bedeutungen; die Wörter passen deshalb je nach Zusammenhang.
+| Auswahl | |
+|---|---|
+| aufgestellt | schwatzhaft |
+| offen | redefreudig |
+| beschwingt | glücklich |
 
-Q: **richtig** – Welche drei Wörter aus der Auswahl passen? Auswahl: fehlerfrei, betreffend, beachtlich, störungsfrei, einwandfrei, zutreffend.
+A:
 
-A: **fehlerfrei, einwandfrei, zutreffend.**
+| Synonyme |
+|---|
+| **aufgestellt** |
+| **glücklich** |
+| **beschwingt** |
 
-Q: **dunkel** – Welche drei Wörter aus der Auswahl passen? Auswahl: blind, schmutzig, geheimnisvoll, schmierig, trübe, düster.
+Q: **gross** (bedeutend oder herausragend)
 
-A: **geheimnisvoll, trübe, düster.** „Geheimnisvoll“ passt zur übertragenen Bedeutung von „dunkel“, zum Beispiel bei einer dunklen Andeutung.
+Wähle drei bedeutungsähnliche Wörter.
 
-Q: **dumm** – Welche drei Wörter aus der Auswahl passen? Auswahl: einfältig, lustig, lachhaft, albern, gewitzt, unwissend.
+| Auswahl | |
+|---|---|
+| hochmütig | mächtig |
+| eingebildet | überheblich |
+| bemerkenswert | berühmt |
 
-A: **einfältig, albern, unwissend.** Die Auswahl verbindet verschiedene Bedeutungen: einfältig = wenig verständig; albern = töricht; unwissend = ohne Wissen. Unwissen allein bedeutet nicht geringe Intelligenz.
+A:
 
-Q: **schwach** – Welche drei Wörter aus der Auswahl passen? Auswahl: kleinmütig, dürftig, feige, energielos, gehemmt, schlaff.
+| Synonyme |
+|---|
+| **mächtig** |
+| **berühmt** |
+| **bemerkenswert** |
 
-A: **dürftig, energielos, schlaff.** „Dürftig“ passt etwa zu einer schwachen Leistung; seltener bedeutet es auch „schwächlich“.
+Vermutete Auswahl für „bedeutend“ oder „herausragend“. Die Wörter passen je nach Zusammenhang.
 
-Q: **schön** – Welche drei Wörter aus der Auswahl passen? Auswahl: eitel, herrlich, rein, bildhübsch, stolz, wolkenlos.
+Q: **richtig**
 
-A: **herrlich, bildhübsch, wolkenlos.** „Wolkenlos“ passt zu schönem Wetter.
+Wähle drei bedeutungsähnliche Wörter.
 
-Q: **krank** – Welche drei Wörter aus der Auswahl passen? Auswahl: bettlägerig, betagt, brüchig, flau, arbeitsunfähig, unpässlich.
+| Auswahl | |
+|---|---|
+| fehlerfrei | betreffend |
+| störungsfrei | zutreffend |
+| einwandfrei | beachtlich |
 
-A: **bettlägerig, arbeitsunfähig, unpässlich.** Wahrscheinlich gemeinte Auswahl. Bettlägerigkeit und Arbeitsunfähigkeit sind mögliche Folgen einer Krankheit. Auch „flau“ kann im passenden Zusammenhang „unwohl“ bedeuten.
+A:
 
-Q: **schwer** – Welche drei Wörter aus der Auswahl passen? Auswahl: wuchtig, panisch, erschütternd, knifflig, stürmisch, mühsam.
+| Synonyme |
+|---|
+| **fehlerfrei** |
+| **einwandfrei** |
+| **zutreffend** |
 
-A: **wuchtig, knifflig, mühsam.** „Wuchtig“ betrifft Gewicht oder Wirkung; „knifflig“ und „mühsam“ betreffen eine schwierige Aufgabe.
+Q: **dunkel** (Licht oder übertragene Bedeutung)
 
-Q: **sonderbar** – Welchem Grundwort der Übung entspricht es?
+Wähle drei bedeutungsähnliche Wörter.
 
-A: **eigenartig**
+| Auswahl | |
+|---|---|
+| geheimnisvoll | trübe |
+| düster | schmutzig |
+| blind | schmierig |
 
-Q: **merkwürdig** – Welchem Grundwort der Übung entspricht es?
+A:
 
-A: **eigenartig**
+| Synonyme |
+|---|
+| **geheimnisvoll** |
+| **trübe** |
+| **düster** |
 
-Q: **seltsam** – Welchem Grundwort der Übung entspricht es?
+„Geheimnisvoll“ passt zur übertragenen Bedeutung, etwa bei einer dunklen Andeutung.
 
-A: **eigenartig**
+Q: **dumm**
 
-Q: **kurios** – Welchem Grundwort der Übung entspricht es?
+Wähle drei bedeutungsähnliche Wörter.
 
-A: **eigenartig**
+| Auswahl | |
+|---|---|
+| einfältig | gewitzt |
+| albern | unwissend |
+| lustig | lachhaft |
 
-Q: **tapfer** – Welchem Grundwort der Übung entspricht es?
+A:
 
-A: **mutig**
+| Synonyme |
+|---|
+| **einfältig** |
+| **albern** |
+| **unwissend** |
 
-Q: **kühn** – Welchem Grundwort der Übung entspricht es?
+„Unwissend“ bedeutet ohne Wissen; das ist nicht dasselbe wie geringe Intelligenz.
 
-A: **mutig**
+Q: **schwach** (Leistung oder Kraft)
 
-Q: **furchtlos** – Welchem Grundwort der Übung entspricht es?
+Wähle drei bedeutungsähnliche Wörter.
 
-A: **mutig**
+| Auswahl | |
+|---|---|
+| energielos | feige |
+| dürftig | schlaff |
+| kleinmütig | gehemmt |
 
-Q: **beherzt** – Welchem Grundwort der Übung entspricht es?
+A:
 
-A: **mutig**
+| Synonyme |
+|---|
+| **dürftig** |
+| **energielos** |
+| **schlaff** |
 
-Q: **unartig** – Welchem Grundwort der Übung entspricht es?
+„Dürftig“ kann eine schwache Leistung oder einen schwächlichen Zustand beschreiben.
 
-A: **frech**
+Q: **schön** (Aussehen oder Wetter)
 
-Q: **vorlaut** – Welchem Grundwort der Übung entspricht es?
+Wähle drei bedeutungsähnliche Wörter.
 
-A: **frech**
+| Auswahl | |
+|---|---|
+| eitel | herrlich |
+| wolkenlos | stolz |
+| bildhübsch | rein |
 
-Q: **respektlos** – Welchem Grundwort der Übung entspricht es?
+A:
 
-A: **frech**
+| Synonyme |
+|---|
+| **herrlich** |
+| **bildhübsch** |
+| **wolkenlos** |
 
-Q: **keck** – Welchem Grundwort der Übung entspricht es?
+„Wolkenlos“ passt hier zu schönem Wetter.
 
-A: **frech**
+Q: **krank**
 
-Q: **spassig** – Welchem Grundwort der Übung entspricht es?
+Wähle „leicht krank“ und zwei mögliche Folgen einer Krankheit.
 
-A: **lustig**
+| Auswahl | |
+|---|---|
+| flau | arbeitsunfähig |
+| betagt | brüchig |
+| unpässlich | bettlägerig |
 
-Q: **amüsant** – Welchem Grundwort der Übung entspricht es?
+A:
 
-A: **lustig**
+| Synonyme |
+|---|
+| **bettlägerig** |
+| **arbeitsunfähig** |
+| **unpässlich** |
 
-Q: **albern** – Welchem Grundwort der Übung entspricht es?
+„Unpässlich“ bedeutet leicht krank. Die anderen beiden Wörter beschreiben mögliche Folgen einer Krankheit. „Flau“ kann ebenfalls „unwohl“ bedeuten.
 
-A: **lustig**
+Q: **schwer** (Gewicht oder Schwierigkeit)
 
-Q: **witzig** – Welchem Grundwort der Übung entspricht es?
+Wähle drei bedeutungsähnliche Wörter.
 
-A: **lustig**
+| Auswahl | |
+|---|---|
+| erschütternd | panisch |
+| wuchtig | knifflig |
+| mühsam | stürmisch |
 
-Q: **aufgeweckt** – Welchem Grundwort der Übung entspricht es?
+A:
 
-A: **schlau** Hier geht es um schnelle Auffassung und geistige Regheit.
+| Synonyme |
+|---|
+| **wuchtig** |
+| **knifflig** |
+| **mühsam** |
 
-Q: **gewieft** – Welchem Grundwort der Übung entspricht es?
+„Wuchtig“ betrifft Gewicht oder Wirkung; „knifflig“ und „mühsam“ betreffen Schwierigkeit.
 
-A: **schlau**
+Q: **sonderbar**
 
-Q: **raffiniert** – Welchem Grundwort der Übung entspricht es?
+Welches Synonym passt?
 
-A: **schlau**
+| Auswahl |
+|---|
+| frech |
+| lustig |
+| eigenartig |
 
-Q: **clever** – Welchem Grundwort der Übung entspricht es?
+A: **sonderbar → eigenartig**
 
-A: **schlau**
+Q: **merkwürdig**
 
-Q: **delikat** – Welchem Grundwort der Übung entspricht es?
+Welches Synonym passt?
 
-A: **köstlich**
+| Auswahl |
+|---|
+| eigenartig |
+| frech |
+| lustig |
 
-Q: **lecker** – Welchem Grundwort der Übung entspricht es?
+A: **merkwürdig → eigenartig**
 
-A: **köstlich**
+Q: **seltsam**
 
-Q: **schmackhaft** – Welchem Grundwort der Übung entspricht es?
+Welches Synonym passt?
 
-A: **köstlich**
+| Auswahl |
+|---|
+| frech |
+| lustig |
+| eigenartig |
 
-Q: **vorzüglich** – Welchem Grundwort der Übung entspricht es?
+A: **seltsam → eigenartig**
 
-A: **köstlich**
+Q: **kurios**
 
-Q: **schleppend** – Welchem Grundwort der Übung entspricht es?
+Welches Synonym passt?
 
-A: **langsam**
+| Auswahl |
+|---|
+| lustig |
+| frech |
+| eigenartig |
 
-Q: **säumig** – Welchem Grundwort der Übung entspricht es?
+A: **kurios → eigenartig**
 
-A: **langsam** Genauer bedeutet „säumig“, dass jemand etwas verspätet erledigt oder eine Pflicht nicht rechtzeitig erfüllt. In der Übung gehört es zu „langsam“.
+Q: **tapfer**
 
-Q: **lahm** – Welchem Grundwort der Übung entspricht es?
+Welches Synonym passt?
 
-A: **langsam**
+| Auswahl |
+|---|
+| schlau |
+| mutig |
+| lustig |
 
-Q: **träge** – Welchem Grundwort der Übung entspricht es?
+A: **tapfer → mutig**
 
-A: **langsam**
+Q: **kühn**
 
-Q: **aufgebracht** – Welchem Grundwort der Übung entspricht es?
+Welches Synonym passt?
 
-A: **verärgert**
+| Auswahl |
+|---|
+| lustig |
+| mutig |
+| schlau |
 
-Q: **entrüstet** – Welchem Grundwort der Übung entspricht es?
+A: **kühn → mutig**
 
-A: **verärgert**
+Q: **furchtlos**
 
-Q: **empört** – Welchem Grundwort der Übung entspricht es?
+Welches Synonym passt?
 
-A: **verärgert**
+| Auswahl |
+|---|
+| schlau |
+| lustig |
+| mutig |
 
-Q: **grimmig** – Welchem Grundwort der Übung entspricht es?
+A: **furchtlos → mutig**
 
-A: **verärgert**
+Q: **beherzt**
 
-Q: **eigenartig** – Nenne die vier zugeordneten Wörter aus der Vorlage.
+Welches Synonym passt?
 
-A: **sonderbar, merkwürdig, seltsam, kurios.**
+| Auswahl |
+|---|
+| lustig |
+| mutig |
+| schlau |
 
-Q: **mutig** – Nenne die vier zugeordneten Wörter aus der Vorlage.
+A: **beherzt → mutig**
 
-A: **tapfer, kühn, furchtlos, beherzt.**
+Q: **unartig**
 
-Q: **frech** – Nenne die vier zugeordneten Wörter aus der Vorlage.
+Welches Synonym passt?
 
-A: **unartig, vorlaut, respektlos, keck.**
+| Auswahl |
+|---|
+| schlau |
+| köstlich |
+| frech |
 
-Q: **lustig** – Nenne die vier zugeordneten Wörter aus der Vorlage.
+A: **unartig → frech**
 
-A: **spassig, amüsant, albern, witzig.**
+Q: **vorlaut**
 
-Q: **schlau** – Nenne die vier zugeordneten Wörter aus der Vorlage.
+Welches Synonym passt?
 
-A: **aufgeweckt, gewieft, raffiniert, clever.**
+| Auswahl |
+|---|
+| frech |
+| köstlich |
+| schlau |
 
-Q: **köstlich** – Nenne die vier zugeordneten Wörter aus der Vorlage.
+A: **vorlaut → frech**
 
-A: **delikat, lecker, schmackhaft, vorzüglich.**
+Q: **respektlos**
 
-Q: **langsam** – Nenne die vier zugeordneten Wörter aus der Vorlage.
+Welches Synonym passt?
 
-A: **schleppend, säumig, lahm, träge.**
+| Auswahl |
+|---|
+| frech |
+| köstlich |
+| schlau |
 
-Q: **verärgert** – Nenne die vier zugeordneten Wörter aus der Vorlage.
+A: **respektlos → frech**
 
-A: **aufgebracht, entrüstet, empört, grimmig.**
+Q: **keck**
 
-Q: **folgenschwer** – Welches Wort passt? Auswahl: letztlich · folglich · erheblich.
+Welches Synonym passt?
 
-A: **erheblich** Unter den drei Antworten ist „erheblich“ am ehesten gemeint. Genauer bedeutet „folgenschwer“: mit schwerwiegenden, meist negativen Folgen. „Erheblich“ ist kein genaues Synonym.
+| Auswahl |
+|---|
+| frech |
+| schlau |
+| köstlich |
 
-Q: **widerlich** – Welches Wort passt? Auswahl: ernsthaft · ekelhaft · krankhaft.
+A: **keck → frech**
 
-A: **ekelhaft**
+Q: **spassig**
 
-Q: **leidlich** – Welches Wort passt? Auswahl: gleichermassen · einigermassen · gewissermassen.
+Welches Synonym passt?
 
-A: **einigermassen** „Leidlich“ bedeutet hier: einigermassen, gerade noch ausreichend.
+| Auswahl |
+|---|
+| lustig |
+| langsam |
+| köstlich |
 
-Q: **erfunden** – Welches Fremdwort passt? Auswahl: irregulär · imaginär · autoritär.
+A: **spassig → lustig**
 
-A: **imaginär**
+Q: **amüsant**
 
-Q: **körperlich** – Welches Fremdwort passt? Auswahl: physisch · psychologisch · obligatorisch.
+Welches Synonym passt?
 
-A: **physisch**
+| Auswahl |
+|---|
+| lustig |
+| langsam |
+| köstlich |
 
-Q: **wesentlich** – Welches Fremdwort passt? Auswahl: regulär · sekundär · primär.
+A: **amüsant → lustig**
 
-A: **primär** Hier in der Bedeutung „grundlegend, vorrangig“. „Primär“ kann auch „ursprünglich“ bedeuten.
+Q: **albern**
 
-Q: **selbstständig** – Welches Fremdwort passt? Auswahl: autoritär · autonom · autorisiert.
+Welches Synonym passt?
 
-A: **autonom**
+| Auswahl |
+|---|
+| lustig |
+| langsam |
+| köstlich |
 
-Q: **wirkungsvoll** – Welches Fremdwort passt? Auswahl: fakultativ · effektiv · aktiv.
+A: **albern → lustig**
 
-A: **effektiv**
+Q: **witzig**
 
-Q: **zurückhaltend** – Welches Fremdwort passt? Auswahl: extrovertiert · konvertiert · introvertiert.
+Welches Synonym passt?
 
-A: **introvertiert**
+| Auswahl |
+|---|
+| lustig |
+| langsam |
+| köstlich |
 
-Q: **bescheiden** – Welchem Grundwort der Übung entspricht es?
+A: **witzig → lustig**
 
-A: **spartanisch**
+Q: **aufgeweckt** (rasche Auffassung)
 
-Q: **schlicht** – Welchem Grundwort der Übung entspricht es?
+Welches Synonym passt?
 
-A: **spartanisch**
+| Auswahl |
+|---|
+| verärgert |
+| langsam |
+| schlau |
 
-Q: **genügsam** – Welchem Grundwort der Übung entspricht es?
+A: **aufgeweckt → schlau**
 
-A: **spartanisch**
+Schnelle Auffassung und geistige Regheit.
 
-Q: **einfach** – Welchem Grundwort der Übung entspricht es?
+Q: **gewieft**
 
-A: **spartanisch**
+Welches Synonym passt?
 
-Q: **populär** – Welchem Grundwort der Übung entspricht es?
+| Auswahl |
+|---|
+| schlau |
+| langsam |
+| verärgert |
 
-A: **berühmt**
+A: **gewieft → schlau**
 
-Q: **bekannt** – Welchem Grundwort der Übung entspricht es?
+Q: **raffiniert** (kluges Vorgehen)
 
-A: **berühmt**
+Welches Synonym passt?
 
-Q: **namhaft** – Welchem Grundwort der Übung entspricht es?
+| Auswahl |
+|---|
+| langsam |
+| schlau |
+| verärgert |
 
-A: **berühmt**
+A: **raffiniert → schlau**
 
-Q: **prominent** – Welchem Grundwort der Übung entspricht es?
+Q: **clever**
 
-A: **berühmt**
+Welches Synonym passt?
 
-Q: **hochnäsig** – Welchem Grundwort der Übung entspricht es?
+| Auswahl |
+|---|
+| schlau |
+| langsam |
+| verärgert |
 
-A: **arrogant**
+A: **clever → schlau**
 
-Q: **aufgeblasen** – Welchem Grundwort der Übung entspricht es?
+Q: **delikat** (Essen)
 
-A: **arrogant**
+Welches Synonym passt?
 
-Q: **angeberisch** – Welchem Grundwort der Übung entspricht es?
+| Auswahl |
+|---|
+| köstlich |
+| eigenartig |
+| verärgert |
 
-A: **arrogant**
+A: **delikat → köstlich**
 
-Q: **eingebildet** – Welchem Grundwort der Übung entspricht es?
+Q: **lecker**
 
-A: **arrogant**
+Welches Synonym passt?
 
-Q: **vorurteilsfrei** – Welchem Grundwort der Übung entspricht es?
+| Auswahl |
+|---|
+| eigenartig |
+| köstlich |
+| verärgert |
 
-A: **tolerant**
+A: **lecker → köstlich**
 
-Q: **verständnisvoll** – Welchem Grundwort der Übung entspricht es?
+Q: **schmackhaft**
 
-A: **tolerant**
+Welches Synonym passt?
 
-Q: **duldsam** – Welchem Grundwort der Übung entspricht es?
+| Auswahl |
+|---|
+| verärgert |
+| eigenartig |
+| köstlich |
 
-A: **tolerant**
+A: **schmackhaft → köstlich**
 
-Q: **aufgeschlossen** – Welchem Grundwort der Übung entspricht es?
+Q: **vorzüglich** (Geschmack)
 
-A: **tolerant**
+Welches Synonym passt?
 
-Q: **spartanisch** – Nenne die vier zugeordneten Wörter aus der Vorlage.
+| Auswahl |
+|---|
+| köstlich |
+| eigenartig |
+| verärgert |
 
-A: **bescheiden, schlicht, genügsam, einfach.**
+A: **vorzüglich → köstlich**
 
-Q: **berühmt** – Nenne die vier zugeordneten Wörter aus der Vorlage.
+Q: **schleppend**
 
-A: **populär, bekannt, namhaft, prominent.**
+Welches Synonym passt?
 
-Q: **arrogant** – Nenne die vier zugeordneten Wörter aus der Vorlage.
+| Auswahl |
+|---|
+| mutig |
+| langsam |
+| eigenartig |
 
-A: **hochnäsig, aufgeblasen, angeberisch, eingebildet.**
+A: **schleppend → langsam**
 
-Q: **tolerant** – Nenne die vier zugeordneten Wörter aus der Vorlage.
+Q: **säumig** (verspätetes Erledigen)
 
-A: **vorurteilsfrei, verständnisvoll, duldsam, aufgeschlossen.**
+Welches Synonym passt?
 
-Q: **aufmerksam** – Nenne ein passendes Synonym.
+| Auswahl |
+|---|
+| eigenartig |
+| mutig |
+| langsam |
 
-A: **achtsam** Weitere passende Antwort: konzentriert. Hier bedeutet „aufmerksam“: etwas bewusst wahrnehmen oder verfolgen.
+A: **säumig → langsam**
 
-Q: **billig** – Nenne ein passendes Synonym.
+Genauer: etwas nicht rechtzeitig erledigen. Die Zuordnung zu „langsam“ ist nur ungefähr.
 
-A: **preiswert** Weitere passende Antwort: günstig. Hier geht es um einen niedrigen Preis.
+Q: **lahm** (Tempo)
 
-Q: **nett** – Nenne ein passendes Synonym.
+Welches Synonym passt?
 
-A: **freundlich** Weitere passende Antwort: liebenswürdig.
+| Auswahl |
+|---|
+| eigenartig |
+| langsam |
+| mutig |
 
-Q: **schweigsam** – Nenne ein passendes Synonym.
+A: **lahm → langsam**
 
-A: **wortkarg** Weitere passende Antwort: still.
+Q: **träge** (Tempo)
 
-Q: **vielfältig** – Nenne ein passendes Synonym.
+Welches Synonym passt?
 
-A: **abwechslungsreich** Weitere passende Antwort: vielgestaltig.
+| Auswahl |
+|---|
+| eigenartig |
+| langsam |
+| mutig |
 
-Q: **beängstigend** – Nenne ein passendes Synonym.
+A: **träge → langsam**
 
-A: **furchteinflössend** Weitere passende Antwort: angsteinflössend.
+Q: **aufgebracht**
 
-Q: **lila** – Nenne ein passendes Synonym.
+Welches Synonym passt?
 
-A: **violett**
+| Auswahl |
+|---|
+| frech |
+| verärgert |
+| mutig |
 
-Q: **erbost** – Nenne ein passendes Synonym.
+A: **aufgebracht → verärgert**
 
-A: **wütend** Weitere passende Antwort: verärgert.
+Q: **entrüstet**
 
-Q: **stark** – Nenne ein passendes Synonym.
+Welches Synonym passt?
 
-A: **kräftig** Weitere passende Antwort: kraftvoll. Hier geht es um körperliche Stärke.
+| Auswahl |
+|---|
+| verärgert |
+| frech |
+| mutig |
 
-Q: **intelligent** – Nenne ein passendes Synonym.
+A: **entrüstet → verärgert**
 
-A: **klug** Weitere passende Antwort: gescheit.
+Q: **empört**
 
-Q: **tolpatschig** – Nenne ein passendes Synonym.
+Welches Synonym passt?
 
-A: **ungeschickt** Weitere passende Antwort: unbeholfen.
+| Auswahl |
+|---|
+| mutig |
+| verärgert |
+| frech |
 
-Q: **erstaunt** – Nenne ein passendes Synonym.
+A: **empört → verärgert**
 
-A: **überrascht** Weitere passende Antwort: verwundert.
+Q: **grimmig**
 
-Q: **professionell** – Nenne ein passendes Synonym.
+Welches Synonym passt?
 
-A: **fachmännisch** Weitere passende Antwort: fachgerecht.
+| Auswahl |
+|---|
+| verärgert |
+| frech |
+| mutig |
 
-Q: **definitiv** – Nenne ein passendes Synonym.
+A: **grimmig → verärgert**
 
-A: **endgültig** Weitere passende Antwort: abschliessend.
+Q: **eigenartig**
 
-Q: **eklig** – Nenne ein passendes Synonym.
+Wähle vier Synonyme.
 
-A: **widerlich** Weitere passende Antwort: ekelhaft.
+| Auswahl | |
+|---|---|
+| sonderbar | träge |
+| witzig | seltsam |
+| tapfer | merkwürdig |
+| lecker | kurios |
 
-Q: **diskret** – Nenne ein passendes Synonym.
+A:
 
-A: **verschwiegen** Weitere passende Antwort: unauffällig. „Verschwiegen“ passt zum vertraulichen Umgang mit Informationen; „unauffällig“ zum zurückhaltenden Verhalten.
+| Synonyme |
+|---|
+| **sonderbar** |
+| **merkwürdig** |
+| **seltsam** |
+| **kurios** |
+
+Q: **mutig**
+
+Wähle vier Synonyme.
+
+| Auswahl | |
+|---|---|
+| respektlos | kühn |
+| lecker | merkwürdig |
+| tapfer | furchtlos |
+| träge | beherzt |
+
+A:
+
+| Synonyme |
+|---|
+| **tapfer** |
+| **kühn** |
+| **furchtlos** |
+| **beherzt** |
+
+Q: **frech**
+
+Wähle vier Synonyme.
+
+| Auswahl | |
+|---|---|
+| vorlaut | amüsant |
+| keck | clever |
+| unartig | schleppend |
+| respektlos | delikat |
+
+A:
+
+| Synonyme |
+|---|
+| **unartig** |
+| **vorlaut** |
+| **respektlos** |
+| **keck** |
+
+Q: **lustig**
+
+Wähle vier Synonyme.
+
+| Auswahl | |
+|---|---|
+| albern | grimmig |
+| spassig | respektlos |
+| witzig | lahm |
+| amüsant | tapfer |
+
+A:
+
+| Synonyme |
+|---|
+| **spassig** |
+| **amüsant** |
+| **albern** |
+| **witzig** |
+
+Q: **schlau**
+
+Wähle vier Synonyme.
+
+| Auswahl | |
+|---|---|
+| raffiniert | träge |
+| entrüstet | unartig |
+| gewieft | lecker |
+| clever | aufgeweckt |
+
+A:
+
+| Synonyme |
+|---|
+| **aufgeweckt** |
+| **gewieft** |
+| **raffiniert** |
+| **clever** |
+
+Q: **köstlich**
+
+Wähle vier Synonyme.
+
+| Auswahl | |
+|---|---|
+| lecker | träge |
+| grimmig | vorlaut |
+| schmackhaft | delikat |
+| sonderbar | vorzüglich |
+
+A:
+
+| Synonyme |
+|---|
+| **delikat** |
+| **lecker** |
+| **schmackhaft** |
+| **vorzüglich** |
+
+Q: **langsam**
+
+Wähle vier Synonyme.
+
+| Auswahl | |
+|---|---|
+| träge | delikat |
+| lahm | säumig |
+| schleppend | witzig |
+| empört | kühn |
+
+A:
+
+| Synonyme |
+|---|
+| **schleppend** |
+| **säumig** |
+| **lahm** |
+| **träge** |
+
+„Säumig“ bedeutet genauer: etwas verspätet erledigen.
+
+Q: **verärgert**
+
+Wähle vier Synonyme.
+
+| Auswahl | |
+|---|---|
+| lecker | empört |
+| entrüstet | seltsam |
+| aufgebracht | grimmig |
+| furchtlos | clever |
+
+A:
+
+| Synonyme |
+|---|
+| **aufgebracht** |
+| **entrüstet** |
+| **empört** |
+| **grimmig** |
+
+Q: **folgenschwer**
+
+Welches Wort ist am ehesten bedeutungsähnlich?
+
+| Auswahl |
+|---|
+| folglich |
+| erheblich |
+| letztlich |
+
+A: **folgenschwer → erheblich**
+
+Nur die nächstliegende Auswahlantwort. Genauer: mit schwerwiegenden, meist negativen Folgen; „erheblich“ ist kein genaues Synonym.
+
+Q: **widerlich**
+
+Welches Synonym passt?
+
+| Auswahl |
+|---|
+| ekelhaft |
+| ernsthaft |
+| krankhaft |
+
+A: **widerlich → ekelhaft**
+
+Q: **leidlich**
+
+Welches Synonym passt?
+
+| Auswahl |
+|---|
+| einigermassen |
+| gleichermassen |
+| gewissermassen |
+
+A: **leidlich → einigermassen**
+
+Einigermassen; gerade noch ausreichend.
+
+Q: **erfunden**
+
+Welches Fremdwort passt?
+
+| Auswahl |
+|---|
+| irregulär |
+| autoritär |
+| imaginär |
+
+A: **erfunden → imaginär**
+
+Q: **körperlich**
+
+Welches Fremdwort passt?
+
+| Auswahl |
+|---|
+| psychologisch |
+| obligatorisch |
+| physisch |
+
+A: **körperlich → physisch**
+
+Q: **wesentlich** (grundlegend oder vorrangig)
+
+Welches Fremdwort passt?
+
+| Auswahl |
+|---|
+| sekundär |
+| primär |
+| regulär |
+
+A: **wesentlich → primär**
+
+„Primär“ bedeutet hier grundlegend oder vorrangig.
+
+Q: **selbstständig**
+
+Welches Fremdwort passt?
+
+| Auswahl |
+|---|
+| autonom |
+| autorisiert |
+| autoritär |
+
+A: **selbstständig → autonom**
+
+Q: **wirkungsvoll**
+
+Welches Fremdwort passt?
+
+| Auswahl |
+|---|
+| aktiv |
+| fakultativ |
+| effektiv |
+
+A: **wirkungsvoll → effektiv**
+
+Q: **zurückhaltend**
+
+Welches Fremdwort passt?
+
+| Auswahl |
+|---|
+| introvertiert |
+| extrovertiert |
+| konvertiert |
+
+A: **zurückhaltend → introvertiert**
+
+Q: **bescheiden** (Lebensweise)
+
+Welches Synonym passt?
+
+| Auswahl |
+|---|
+| arrogant |
+| spartanisch |
+| tolerant |
+
+A: **bescheiden → spartanisch**
+
+Eine einfache Lebensweise ohne Luxus.
+
+Q: **schlicht** (Einrichtung)
+
+Welches Synonym passt?
+
+| Auswahl |
+|---|
+| tolerant |
+| arrogant |
+| spartanisch |
+
+A: **schlicht → spartanisch**
+
+Eine einfache Einrichtung ohne Luxus.
+
+Q: **genügsam** (Lebensweise)
+
+Welches Synonym passt?
+
+| Auswahl |
+|---|
+| tolerant |
+| spartanisch |
+| arrogant |
+
+A: **genügsam → spartanisch**
+
+Mit wenig auskommen.
+
+Q: **einfach** (Ausstattung)
+
+Welches Synonym passt?
+
+| Auswahl |
+|---|
+| tolerant |
+| spartanisch |
+| arrogant |
+
+A: **einfach → spartanisch**
+
+Eine schlichte Ausstattung ohne Luxus.
+
+Q: **populär** (Person)
+
+Welches Synonym passt?
+
+| Auswahl |
+|---|
+| tolerant |
+| berühmt |
+| spartanisch |
+
+A: **populär → berühmt**
+
+Q: **bekannt** (Person)
+
+Welches Synonym passt?
+
+| Auswahl |
+|---|
+| spartanisch |
+| tolerant |
+| berühmt |
+
+A: **bekannt → berühmt**
+
+Q: **namhaft** (Person)
+
+Welches Synonym passt?
+
+| Auswahl |
+|---|
+| tolerant |
+| berühmt |
+| spartanisch |
+
+A: **namhaft → berühmt**
+
+Q: **prominent** (Person)
+
+Welches Synonym passt?
+
+| Auswahl |
+|---|
+| tolerant |
+| berühmt |
+| spartanisch |
+
+A: **prominent → berühmt**
+
+Q: **hochnäsig**
+
+Welches Synonym passt?
+
+| Auswahl |
+|---|
+| spartanisch |
+| arrogant |
+| berühmt |
+
+A: **hochnäsig → arrogant**
+
+Q: **aufgeblasen**
+
+Welches Synonym passt?
+
+| Auswahl |
+|---|
+| arrogant |
+| spartanisch |
+| berühmt |
+
+A: **aufgeblasen → arrogant**
+
+Q: **angeberisch**
+
+Welches Synonym passt?
+
+| Auswahl |
+|---|
+| arrogant |
+| spartanisch |
+| berühmt |
+
+A: **angeberisch → arrogant**
+
+Q: **eingebildet**
+
+Welches Synonym passt?
+
+| Auswahl |
+|---|
+| spartanisch |
+| berühmt |
+| arrogant |
+
+A: **eingebildet → arrogant**
+
+Q: **vorurteilsfrei**
+
+Welches Synonym passt?
+
+| Auswahl |
+|---|
+| tolerant |
+| berühmt |
+| arrogant |
+
+A: **vorurteilsfrei → tolerant**
+
+Q: **verständnisvoll**
+
+Welches Synonym passt?
+
+| Auswahl |
+|---|
+| berühmt |
+| arrogant |
+| tolerant |
+
+A: **verständnisvoll → tolerant**
+
+Q: **duldsam**
+
+Welches Synonym passt?
+
+| Auswahl |
+|---|
+| tolerant |
+| berühmt |
+| arrogant |
+
+A: **duldsam → tolerant**
+
+Q: **aufgeschlossen**
+
+Welches Synonym passt?
+
+| Auswahl |
+|---|
+| arrogant |
+| tolerant |
+| berühmt |
+
+A: **aufgeschlossen → tolerant**
+
+Q: **spartanisch**
+
+Wähle vier Synonyme.
+
+| Auswahl | |
+|---|---|
+| populär | prominent |
+| bescheiden | schlicht |
+| einfach | genügsam |
+| angeberisch | hochnäsig |
+
+A:
+
+| Synonyme |
+|---|
+| **bescheiden** |
+| **schlicht** |
+| **genügsam** |
+| **einfach** |
+
+Q: **berühmt**
+
+Wähle vier Synonyme.
+
+| Auswahl | |
+|---|---|
+| bescheiden | genügsam |
+| schlicht | populär |
+| namhaft | duldsam |
+| prominent | bekannt |
+
+A:
+
+| Synonyme |
+|---|
+| **populär** |
+| **bekannt** |
+| **namhaft** |
+| **prominent** |
+
+Q: **arrogant**
+
+Wähle vier Synonyme.
+
+| Auswahl | |
+|---|---|
+| duldsam | hochnäsig |
+| aufgeblasen | verständnisvoll |
+| eingebildet | aufgeschlossen |
+| vorurteilsfrei | angeberisch |
+
+A:
+
+| Synonyme |
+|---|
+| **hochnäsig** |
+| **aufgeblasen** |
+| **angeberisch** |
+| **eingebildet** |
+
+Q: **tolerant**
+
+Wähle vier Synonyme.
+
+| Auswahl | |
+|---|---|
+| angeberisch | hochnäsig |
+| aufgeblasen | duldsam |
+| verständnisvoll | vorurteilsfrei |
+| eingebildet | aufgeschlossen |
+
+A:
+
+| Synonyme |
+|---|
+| **vorurteilsfrei** |
+| **verständnisvoll** |
+| **duldsam** |
+| **aufgeschlossen** |
+
+Q: **aufmerksam** (beim Wahrnehmen oder Zuhören)
+
+Nenne ein Synonym.
+
+A: **aufmerksam → achtsam**
+
+Auch richtig: **konzentriert**
+
+Q: **billig** (Preis)
+
+Nenne ein Synonym.
+
+A: **billig → preiswert**
+
+Auch richtig: **günstig**
+
+Q: **nett**
+
+Nenne ein Synonym.
+
+A: **nett → freundlich**
+
+Auch richtig: **liebenswürdig**
+
+Q: **schweigsam**
+
+Nenne ein Synonym.
+
+A: **schweigsam → wortkarg**
+
+Auch richtig: **still**
+
+Q: **vielfältig**
+
+Nenne ein Synonym.
+
+A: **vielfältig → abwechslungsreich**
+
+Auch richtig: **vielgestaltig**
+
+Q: **beängstigend**
+
+Nenne ein Synonym.
+
+A: **beängstigend → furchteinflössend**
+
+Auch richtig: **angsteinflössend**
+
+Q: **lila**
+
+Nenne ein Synonym.
+
+A: **lila → violett**
+
+Q: **erbost**
+
+Nenne ein Synonym.
+
+A: **erbost → wütend**
+
+Auch richtig: **verärgert**
+
+Q: **stark** (Körperkraft)
+
+Nenne ein Synonym.
+
+A: **stark → kräftig**
+
+Auch richtig: **kraftvoll**
+
+Q: **intelligent**
+
+Nenne ein Synonym.
+
+A: **intelligent → klug**
+
+Auch richtig: **gescheit**
+
+Q: **tolpatschig**
+
+Nenne ein Synonym.
+
+A: **tolpatschig → ungeschickt**
+
+Auch richtig: **unbeholfen**
+
+Q: **erstaunt**
+
+Nenne ein Synonym.
+
+A: **erstaunt → überrascht**
+
+Auch richtig: **verwundert**
+
+Q: **professionell** (fachgerechte Arbeit)
+
+Nenne ein Synonym.
+
+A: **professionell → fachmännisch**
+
+Auch richtig: **fachgerecht**
+
+Q: **definitiv** (endgültige Entscheidung)
+
+Nenne ein Synonym.
+
+A: **definitiv → endgültig**
+
+Auch richtig: **abschliessend**
+
+Q: **eklig**
+
+Nenne ein Synonym.
+
+A: **eklig → widerlich**
+
+Auch richtig: **ekelhaft**
+
+Q: **diskret** (vertraulicher Umgang mit Informationen)
+
+Nenne ein Synonym.
+
+A: **diskret → verschwiegen**
+
+Bei vertraulichen Informationen: verschwiegen. Bei Auftreten oder Verhalten kann „diskret“ auch „unauffällig“ bedeuten.

@@ -1,141 +1,265 @@
-Q: **Ergänze das passende Fremdwort in der richtigen Form:** Meine kleine Schwester wurde gestern von einem fremden Hund `_____`.
+Q: Meine kleine Schwester wurde gestern von einem fremden Hund `_____`.
 
-A:
+Ergänze die richtige Verbform.
 
-| | Antwort |
+| Auswahl |
+|---|
+| offerieren |
+| infizieren |
+| attackieren |
+
+A: Meine kleine Schwester wurde gestern von einem fremden Hund **attackiert**.
+
+| | |
 |---|---|
-| **Einsetzen** | **attackiert** |
-| **Grundform** | attackieren |
-| **Bedeutung** | angreifen |
-| **Form im Satz** | Partizip II; „wurde attackiert“ = Präteritum im Passiv |
+| Grundform | attackieren |
+| Bedeutung | angreifen |
 
-Q: **Ergänze das passende Fremdwort in der richtigen Form:** Zieh eine Jacke an, sonst `_____` du eine Erkältung.
+Q: Zieh eine Jacke an, sonst `_____` du eine Erkältung.
 
-A:
+Ergänze die richtige Verbform.
 
-| | Antwort |
+| Auswahl |
+|---|
+| riskieren |
+| eskalieren |
+| notieren |
+
+A: Zieh eine Jacke an, sonst **riskierst** du eine Erkältung.
+
+| | |
 |---|---|
-| **Einsetzen** | **riskierst** |
-| **Grundform** | riskieren |
-| **Bedeutung** | ein Risiko eingehen; etwas aufs Spiel setzen |
-| **Form im Satz** | Präsens, 2. Person Singular: du riskierst |
+| Grundform | riskieren |
+| Bedeutung | ein Risiko eingehen; etwas aufs Spiel setzen |
 
-Q: **Ergänze das passende Fremdwort in der richtigen Form:** Sie wird oft wegen ihrer Unpünktlichkeit `_____`.
+Q: Sie wird oft wegen ihrer Unpünktlichkeit `_____`.
 
-A:
+Ergänze die richtige Verbform.
 
-| | Antwort |
+| Auswahl |
+|---|
+| kritisieren |
+| gratulieren |
+| manövrieren |
+
+A: Sie wird oft wegen ihrer Unpünktlichkeit **kritisiert**.
+
+| | |
 |---|---|
-| **Einsetzen** | **kritisiert** |
-| **Grundform** | kritisieren |
-| **Bedeutung** | beanstanden; Kritik äussern |
-| **Form im Satz** | Partizip II; „wird kritisiert“ = Präsens im Passiv |
+| Grundform | kritisieren |
+| Bedeutung | beanstanden; Kritik äussern |
 
-Q: **Ergänze das passende Fremdwort in der richtigen Form:** Wir haben uns da in eine ganz verzwickte Situation `_____`.
+Q: Wir haben uns da in eine ganz verzwickte Situation `_____`.
 
-A:
+Ergänze die richtige Verbform.
 
-| | Antwort |
+| Auswahl |
+|---|
+| infizieren |
+| manövrieren |
+| notieren |
+
+A: Wir haben uns da in eine ganz verzwickte Situation **manövriert**.
+
+| | |
 |---|---|
-| **Einsetzen** | **manövriert** |
-| **Grundform** | manövrieren |
-| **Bedeutung** | geschickt bewegen oder lenken; sich in eine Lage bringen |
-| **Form im Satz** | Partizip II; „haben uns manövriert“ = Perfekt |
+| Grundform | manövrieren |
+| Bedeutung | geschickt bewegen oder lenken; sich in eine Lage bringen |
 
-Q: **Ergänze das passende Fremdwort in der richtigen Form:** Mit dieser Karte möchte ich ihm zur bestandenen Prüfung `_____`.
+Q: Mit dieser Karte möchte ich ihm zur bestandenen Prüfung `_____`.
 
-A:
+Ergänze die richtige Verbform.
 
-| | Antwort |
+| Auswahl |
+|---|
+| gratulieren |
+| kritisieren |
+| attackieren |
+
+A: Mit dieser Karte möchte ich ihm zur bestandenen Prüfung **gratulieren**.
+
+| | |
 |---|---|
-| **Einsetzen** | **gratulieren** |
-| **Grundform** | gratulieren |
-| **Bedeutung** | beglückwünschen |
-| **Form im Satz** | Infinitiv nach „möchte“; jemandem zu etwas gratulieren |
+| Grundform | gratulieren |
+| Bedeutung | beglückwünschen |
 
-Q: **Ergänze das passende Fremdwort in der richtigen Form:** Hast du dir die Antworten `_____`?
+Q: Hast du dir die Antworten `_____`?
 
-A:
+Ergänze die richtige Verbform.
 
-| | Antwort |
+| Auswahl |
+|---|
+| notieren |
+| riskieren |
+| offerieren |
+
+A: Hast du dir die Antworten **notiert**?
+
+| | |
 |---|---|
-| **Einsetzen** | **notiert** |
-| **Grundform** | notieren |
-| **Bedeutung** | aufschreiben |
-| **Form im Satz** | Partizip II; „hast notiert“ = Perfekt |
+| Grundform | notieren |
+| Bedeutung | aufschreiben |
 
-Q: **Ergänze das passende Fremdwort in der richtigen Form:** Man sollte Menschen nicht nach ihrer Hautfarbe oder Herkunft `_____`.
+Q: Man sollte Menschen nicht nach ihrer Hautfarbe oder Herkunft `_____`.
 
-A:
+Ergänze die richtige Verbform.
 
-| | Antwort |
+| Auswahl |
+|---|
+| diskriminieren |
+| eskalieren |
+| manövrieren |
+
+A: Man sollte Menschen nicht nach ihrer Hautfarbe oder Herkunft **diskriminieren**.
+
+| | |
 |---|---|
-| **Einsetzen** | **diskriminieren** |
-| **Grundform** | diskriminieren |
-| **Bedeutung** | wegen eines Merkmals benachteiligen oder herabsetzen |
-| **Form im Satz** | Infinitiv nach „sollte“ |
+| Grundform | diskriminieren |
+| Bedeutung | wegen eines Merkmals benachteiligen oder herabsetzen |
 
-Q: **Ergänze das passende Fremdwort in der richtigen Form:** Meine Eltern haben uns ein Eis `_____`.
+Q: Meine Eltern haben uns ein Eis `_____`.
 
-A:
+Ergänze die richtige Verbform.
 
-| | Antwort |
+| Auswahl |
+|---|
+| offerieren |
+| attackieren |
+| notieren |
+
+A: Meine Eltern haben uns ein Eis **offeriert**.
+
+| | |
 |---|---|
-| **Einsetzen** | **offeriert** |
-| **Grundform** | offerieren |
-| **Bedeutung** | anbieten |
-| **Form im Satz** | Partizip II; „haben offeriert“ = Perfekt |
+| Grundform | offerieren |
+| Bedeutung | anbieten |
 
-Q: **Ergänze das passende Fremdwort in der richtigen Form:** Ich habe mich in der Schule mit einem Virus `_____`.
+Q: Ich habe mich in der Schule mit einem Virus `_____`.
 
-A:
+Ergänze die richtige Verbform.
 
-| | Antwort |
+| Auswahl |
+|---|
+| riskieren |
+| infizieren |
+| diskriminieren |
+
+A: Ich habe mich in der Schule mit einem Virus **infiziert**.
+
+| | |
 |---|---|
-| **Einsetzen** | **infiziert** |
-| **Grundform** | infizieren |
-| **Bedeutung** | anstecken |
-| **Form im Satz** | Partizip II; „habe mich infiziert“ = Perfekt |
+| Grundform | infizieren |
+| Bedeutung | anstecken |
 
-Q: **Ergänze das passende Fremdwort in der richtigen Form:** Der Streit wurde immer heftiger und drohte zu `_____`.
+Q: Der Streit wurde immer heftiger und drohte zu `_____`.
 
-A:
+Ergänze die richtige Verbform.
 
-| | Antwort |
+| Auswahl |
+|---|
+| eskalieren |
+| offerieren |
+| gratulieren |
+
+A: Der Streit wurde immer heftiger und drohte zu **eskalieren**.
+
+| | |
 |---|---|
-| **Einsetzen** | **eskalieren** |
-| **Grundform** | eskalieren |
-| **Bedeutung** | sich verschärfen; ausser Kontrolle geraten |
-| **Form im Satz** | Infinitiv nach „drohte zu“ |
+| Grundform | eskalieren |
+| Bedeutung | sich verschärfen; ausser Kontrolle geraten |
 
-Q: **betrügen** – Welches Wort passt? Auswahl: hintergehen · hinterlassen · hintersinnen.
+Q: **betrügen**
 
-A: **hintergehen**
+Welches Synonym passt?
 
-Q: **helfen** – Welches Wort passt? Auswahl: eingestehen · erstehen · beistehen.
+| Auswahl |
+|---|
+| hintersinnen |
+| hinterlassen |
+| hintergehen |
 
-A: **beistehen**
+A: **betrügen → hintergehen**
 
-Q: **demütigen** – Welches Wort passt? Auswahl: besänftigen · entmutigen · erniedrigen.
+Q: **helfen**
 
-A: **erniedrigen**
+Welches Synonym passt?
 
-Q: **stehlen** – Welches Wort passt? Auswahl: entbehren · entwenden · entehren.
+| Auswahl |
+|---|
+| beistehen |
+| eingestehen |
+| erstehen |
 
-A: **entwenden**
+A: **helfen → beistehen**
 
-Q: **bergen** – Welches Wort passt? Auswahl: retten · klettern · wandern.
+Q: **demütigen**
 
-A: **retten**
+Welches Synonym passt?
 
-Q: **bersten** – Welches Wort passt? Auswahl: zerbröckeln · zerspringen · zerdrücken.
+| Auswahl |
+|---|
+| entmutigen |
+| erniedrigen |
+| besänftigen |
 
-A: **zerspringen**
+A: **demütigen → erniedrigen**
 
-Q: **animieren** – Welches Wort passt? Auswahl: verspotten · anspornen · anlächeln.
+Q: **stehlen**
 
-A: **anspornen**
+Welches Synonym passt?
 
-Q: **hinauszögern** – Welches Wort passt? Auswahl: vorschieben · abschieben · aufschieben.
+| Auswahl |
+|---|
+| entbehren |
+| entehren |
+| entwenden |
 
-A: **aufschieben**
+A: **stehlen → entwenden**
+
+Q: **bergen**
+
+Welches Synonym passt?
+
+| Auswahl |
+|---|
+| retten |
+| klettern |
+| wandern |
+
+A: **bergen → retten**
+
+Q: **bersten**
+
+Welches Synonym passt?
+
+| Auswahl |
+|---|
+| zerdrücken |
+| zerbröckeln |
+| zerspringen |
+
+A: **bersten → zerspringen**
+
+Q: **animieren**
+
+Welches Synonym passt?
+
+| Auswahl |
+|---|
+| anspornen |
+| verspotten |
+| anlächeln |
+
+A: **animieren → anspornen**
+
+Q: **hinauszögern**
+
+Welches Synonym passt?
+
+| Auswahl |
+|---|
+| vorschieben |
+| aufschieben |
+| abschieben |
+
+A: **hinauszögern → aufschieben**

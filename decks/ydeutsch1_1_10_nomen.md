@@ -1,119 +1,435 @@
-Q: **Lohn** – Welche drei Wörter aus der Auswahl passen? Auswahl: Einkommen, Ankunft, Verdienst, Aussendienst, Vergeltung, Entgelt.
+Q: **Lohn**
 
-A: **Einkommen, Verdienst, Entgelt.**
+Wähle drei bedeutungsähnliche Wörter.
 
-Q: **Wohlwollen** – Welches Fremdwort aus der Übung passt? Nenne es mit Artikel.
+| Auswahl | |
+|---|---|
+| Ankunft | Einkommen |
+| Entgelt | Aussendienst |
+| Verdienst | Vergeltung |
 
-A: **die Sympathie** Hier ist die wohlwollende Zuneigung zu jemandem gemeint.
+A:
 
-Q: **Aufmerksamkeit** – Welches Fremdwort aus der Übung passt? Nenne es mit Artikel.
+| Synonyme |
+|---|
+| **Einkommen** |
+| **Verdienst** |
+| **Entgelt** |
+
+Q: **Wohlwollen**
+
+Gemeint: wohlwollende Zuneigung zu einer Person.
+
+Fremdwort mit Artikel?
+
+| Auswahl |
+|---|
+| Phantasie |
+| Konzentration |
+| Sympathie |
+
+A: **die Sympathie**
+
+= wohlwollende Zuneigung zu einer Person
+
+Q: **Aufmerksamkeit**
+
+Gemeint: auf eine Sache gerichtete Aufmerksamkeit.
+
+Fremdwort mit Artikel?
+
+| Auswahl |
+|---|
+| Manipulation |
+| Konzentration |
+| Distanz |
 
 A: **die Konzentration**
 
-Q: **Entfernung** – Welches Fremdwort aus der Übung passt? Nenne es mit Artikel.
+= auf eine Sache gerichtete Aufmerksamkeit
+
+Q: **Entfernung**
+
+Gemeint: Abstand zwischen zwei Orten.
+
+Fremdwort mit Artikel?
+
+| Auswahl |
+|---|
+| Distanz |
+| Detail |
+| Reduktion |
 
 A: **die Distanz**
 
-Q: **Beeinflussung** – Welches Fremdwort aus der Übung passt? Nenne es mit Artikel.
+= Abstand zwischen zwei Orten
+
+Q: **Beeinflussung**
+
+Gemeint: gezielte, oft verdeckte Beeinflussung.
+
+Fremdwort mit Artikel?
+
+| Auswahl |
+|---|
+| Sympathie |
+| Reduktion |
+| Manipulation |
 
 A: **die Manipulation**
 
-Q: **Verringerung** – Welches Fremdwort aus der Übung passt? Nenne es mit Artikel.
+= gezielte, oft verdeckte Beeinflussung
+
+Q: **Verringerung**
+
+Gemeint: Verminderung einer Menge.
+
+Fremdwort mit Artikel?
+
+| Auswahl |
+|---|
+| Konzentration |
+| Distanz |
+| Reduktion |
 
 A: **die Reduktion**
 
-Q: **Vorstellungskraft** – Welches Fremdwort aus der Übung passt? Nenne es mit Artikel.
+= Verminderung einer Menge
+
+Q: **Vorstellungskraft**
+
+Gemeint: Fähigkeit, sich etwas auszudenken.
+
+Fremdwort mit Artikel?
+
+| Auswahl |
+|---|
+| Manipulation |
+| Sympathie |
+| Phantasie |
 
 A: **die Phantasie**
 
-Q: **Fachmann** – Welches Fremdwort aus der Übung passt? Nenne es mit Artikel.
+= Fähigkeit, sich etwas auszudenken
+
+Q: **Fachmann**
+
+Gemeint: Person mit besonderem Fachwissen.
+
+Fremdwort mit Artikel?
+
+| Auswahl |
+|---|
+| Konsument |
+| Experte |
+| Proviant |
 
 A: **der Experte**
 
-Q: **Verbraucher** – Welches Fremdwort aus der Übung passt? Nenne es mit Artikel.
+= Person mit besonderem Fachwissen
+
+Q: **Verbraucher**
+
+Gemeint: Person, die Waren kauft oder verbraucht.
+
+Fremdwort mit Artikel?
+
+| Auswahl |
+|---|
+| Konsument |
+| Theater |
+| Experte |
 
 A: **der Konsument**
 
-Q: **Knochengerüst** – Welches Fremdwort aus der Übung passt? Nenne es mit Artikel.
+= Person, die Waren kauft oder verbraucht
+
+Q: **Knochengerüst**
+
+Gemeint: Gerüst der Knochen im Körper.
+
+Fremdwort mit Artikel?
+
+| Auswahl |
+|---|
+| Skelett |
+| Detail |
+| Proviant |
 
 A: **das Skelett**
 
-Q: **Schauspielhaus** – Welches Fremdwort aus der Übung passt? Nenne es mit Artikel.
+= Gerüst der Knochen im Körper
+
+Q: **Schauspielhaus**
+
+Gemeint: Gebäude für Bühnenaufführungen.
+
+Fremdwort mit Artikel?
+
+| Auswahl |
+|---|
+| Theater |
+| Skelett |
+| Distanz |
 
 A: **das Theater**
 
-Q: **Verpflegung** – Welches Fremdwort aus der Übung passt? Nenne es mit Artikel.
+= Gebäude für Bühnenaufführungen
 
-A: **der Proviant** Proviant ist ein Vorrat an Essen, besonders für unterwegs.
+Q: **Verpflegung**
 
-Q: **Einzelheit** – Welches Fremdwort aus der Übung passt? Nenne es mit Artikel.
+Gemeint: Vorrat an Essen für unterwegs.
+
+Fremdwort mit Artikel?
+
+| Auswahl |
+|---|
+| Konsument |
+| Detail |
+| Proviant |
+
+A: **der Proviant**
+
+= Vorrat an Essen für unterwegs
+
+Q: **Einzelheit**
+
+Gemeint: einzelner kleiner Bestandteil.
+
+Fremdwort mit Artikel?
+
+| Auswahl |
+|---|
+| Reduktion |
+| Detail |
+| Theater |
 
 A: **das Detail**
 
-Q: **Ergänze das passende Fremdwort:** Der `_____` kennt sich mit dem Wetter bestens aus.
+= einzelner kleiner Bestandteil
+
+Q: Fachmann für Wetter und Wettervorhersagen
+
+Fremdwort mit Artikel?
+
+| Auswahl |
+|---|
+| Biologe |
+| Theologe |
+| Meteorologe |
 
 A: **der Meteorologe**
 
-Q: **Ergänze das passende Fremdwort:** Der `_____` befördert Menschen, Tiere oder Waren.
+= Fachmann für Wetter und Wettervorhersagen
+
+Q: Beruflicher Fahrer, der Menschen, Tiere oder Waren befördert
+
+Fremdwort mit Artikel?
+
+| Auswahl |
+|---|
+| Chauffeur |
+| Autor |
+| Meteorologe |
 
 A: **der Chauffeur**
 
-Q: **Ergänze das passende Fremdwort:** Der `_____` ist der Verfasser eines Textes.
+= Beruflicher Fahrer, der Menschen, Tiere oder Waren befördert
+
+Q: Verfasser eines Textes
+
+Fremdwort mit Artikel?
+
+| Auswahl |
+|---|
+| Chauffeur |
+| Autor |
+| Theologe |
 
 A: **der Autor**
 
-Q: **Ergänze das passende Fremdwort:** Der `_____` ist ein nach einem bestimmten System geordnetes Verzeichnis.
+= Verfasser eines Textes
+
+Q: Nach einem bestimmten System geordnetes Verzeichnis
+
+Fremdwort mit Artikel?
+
+| Auswahl |
+|---|
+| Katalog |
+| Dialog |
+| Dialekt |
 
 A: **der Katalog**
 
-Q: **Ergänze das passende Fremdwort:** Der `_____` ist zum grossen Teil in der Seelsorge tätig.
+= Nach einem bestimmten System geordnetes Verzeichnis
 
-A: **der Theologe** Die Aufgabe meint einen Theologen in der Seelsorge. Theologen können auch in Forschung oder Lehre arbeiten.
+Q: Fachmann für die wissenschaftliche Beschäftigung mit Religion
 
-Q: **Ergänze das passende Fremdwort:** Der `_____` ist ein Gespräch zwischen zwei oder mehreren Personen.
+Fremdwort mit Artikel?
+
+| Auswahl |
+|---|
+| Meteorologe |
+| Theologe |
+| Biologe |
+
+A: **der Theologe**
+
+= Fachmann für die wissenschaftliche Beschäftigung mit Religion
+
+Theologen können auch in der Seelsorge arbeiten.
+
+Q: Gespräch zwischen zwei oder mehreren Personen
+
+Fremdwort mit Artikel?
+
+| Auswahl |
+|---|
+| Katalog |
+| Egoismus |
+| Dialog |
 
 A: **der Dialog**
 
-Q: **Ergänze das passende Fremdwort:** Der `_____` ist die regionale Variante einer Sprache.
+= Gespräch zwischen zwei oder mehreren Personen
+
+Q: Regionale Variante einer Sprache
+
+Fremdwort mit Artikel?
+
+| Auswahl |
+|---|
+| Dialog |
+| Dialekt |
+| Intellekt |
 
 A: **der Dialekt**
 
-Q: **Ergänze das passende Fremdwort:** Der `_____` beschäftigt sich mit der Wissenschaft des Lebens.
+= Regionale Variante einer Sprache
+
+Q: Fachmann für die Wissenschaft des Lebens
+
+Fremdwort mit Artikel?
+
+| Auswahl |
+|---|
+| Autor |
+| Biologe |
+| Theologe |
 
 A: **der Biologe**
 
-Q: **Ergänze das passende Fremdwort:** Der `_____` ist unser Denk- und Erkenntnisvermögen.
+= Fachmann für die Wissenschaft des Lebens
+
+Q: Denk- und Erkenntnisvermögen
+
+Fremdwort mit Artikel?
+
+| Auswahl |
+|---|
+| Intellekt |
+| Egoismus |
+| Dialekt |
 
 A: **der Intellekt**
 
-Q: **Ergänze das passende Fremdwort:** Der `_____` ist die selbstbezogene Haltung eines Menschen.
+= Denk- und Erkenntnisvermögen
+
+Q: Selbstbezogene Haltung eines Menschen
+
+Fremdwort mit Artikel?
+
+| Auswahl |
+|---|
+| Dialog |
+| Egoismus |
+| Intellekt |
 
 A: **der Egoismus**
 
-Q: **Option** – Welches Wort passt? Auswahl: Lösung · Gelegenheit · Möglichkeit.
+= Selbstbezogene Haltung eines Menschen
 
-A: **Möglichkeit**
+Q: **Option**
 
-Q: **Zwiegespräch** – Welches Fremdwort passt? Auswahl: Dialog · Monolog · Katalog.
+Welches Synonym passt?
 
-A: **Dialog**
+| Auswahl |
+|---|
+| Lösung |
+| Gelegenheit |
+| Möglichkeit |
 
-Q: **Arznei** – Welches Fremdwort passt? Auswahl: Präparat · Präferenz · Prävention.
+A: **Option → Möglichkeit**
 
-A: **Präparat**
+Q: **Zwiegespräch**
 
-Q: **Werbung** – Welches Fremdwort passt? Auswahl: Reklamation · Reklame · Rekord.
+Welches Fremdwort passt?
 
-A: **Reklame**
+| Auswahl |
+|---|
+| Dialog |
+| Monolog |
+| Katalog |
 
-Q: **Beifall** – Welches Fremdwort passt? Auswahl: Appell · Applaus · Appetit.
+A: **Zwiegespräch → Dialog**
 
-A: **Applaus**
+Q: **Arznei**
 
-Q: **Wiederholung** – Welches Fremdwort passt? Auswahl: Intuition · Repetition · Munition.
+Welches Fremdwort passt?
 
-A: **Repetition**
+| Auswahl |
+|---|
+| Präparat |
+| Präferenz |
+| Prävention |
 
-Q: **Vorhersage** – Welches Fremdwort passt? Auswahl: Hypnose · Prognose · Diagnose.
+A: **Arznei → Präparat**
 
-A: **Prognose**
+Q: **Werbung**
+
+Welches Fremdwort passt?
+
+| Auswahl |
+|---|
+| Reklamation |
+| Rekord |
+| Reklame |
+
+A: **Werbung → Reklame**
+
+Q: **Beifall**
+
+Welches Fremdwort passt?
+
+| Auswahl |
+|---|
+| Appetit |
+| Applaus |
+| Appell |
+
+A: **Beifall → Applaus**
+
+Q: **Wiederholung**
+
+Welches Fremdwort passt?
+
+| Auswahl |
+|---|
+| Munition |
+| Intuition |
+| Repetition |
+
+A: **Wiederholung → Repetition**
+
+Q: **Vorhersage**
+
+Welches Fremdwort passt?
+
+| Auswahl |
+|---|
+| Hypnose |
+| Prognose |
+| Diagnose |
+
+A: **Vorhersage → Prognose**
